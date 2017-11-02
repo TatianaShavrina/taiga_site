@@ -1,8 +1,8 @@
-## Taiga - open-source corpus for machine learning
+# Taiga - open-source corpus for machine learning
 
 
 
-# We have gathered the resources with respect to popular NLP-problems:
+## We have gathered the resources with respect to popular NLP-problems:
 
 - thematic modelling - news with theme tags, all the sites which provide rubrication (news, poems, prose)
 - readability of texts - a popular science magazine NPlus1 has a readability metric for each text, provided by editor.
