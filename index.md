@@ -17,16 +17,16 @@
 By now, 300 millions of words are 70% literary texts (33 literary magazines), 20% of news (Interfax, Fontanka, Lenta ru, Komsomolskaya Pravda, ) and 10% of other (popular science - NPlus1, culture - Arzamas, social networks - VKontakte, amateur poems - stihi.ru and prose - proza.ru), with crawlers available at https://github.com/TatianaShavrina/crawlers .
 
 ## Some corpus stats:
-| resourse      | words     | texts | authors | mean text length | text |
+| resourse | words | texts | authors | mean text length | text |
 |---------------|-----------|-------|---------|------------------|------|
-| Stihi Ru      | 750217    | 4167  | 107     | 177              | 34   |
-| Proza Ru      | 20513805  | 7527  | 82      | 2729             | 36   |
-| NPlus1        | 1692326   | 7696  | 34      | 221              | 26   |
-| Interfax      | 6579301   | 48107 | 0       | 137              | 8    |
-| Koms.Pravda   | 5000341   | 45503 | 652     | 109              | 986  |
-| Lenta Ru      | 7001491   | 34399 | 0       | 198              | 38   |
-| TV Subs       | 28403842  | 3965  | 0       | 7163             | 0    |
-| Magazine Hall | 216763813 | 47629 | 0       | 4551             | 346  |
+| Stihi Ru | 750217 | 4167 | 107 | 177 | 34 |
+| Proza Ru | 20513805 | 7527 | 82 | 2729 | 36 |
+| NPlus1 | 1692326 | 7696 | 34 | 221 | 26 |
+| Interfax | 6579301 | 48107 | 0 | 137 | 8 |
+| Koms.Pravda | 5000341 | 45503 | 652 | 109 | 986 |
+| Lenta Ru | 7001491 | 34399 | 0 | 198 | 38 |
+| TV Subs | 28403842 | 3965 | 0 | 7163 | 0 |
+| Magazine Hall | 216763813 | 47629 | 0 | 4551 | 346 |
 
 ## This project is a project in the HSE Compling framework
 https://www.hse.ru/ma/ling/
