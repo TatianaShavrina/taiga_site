@@ -28,8 +28,7 @@ By now, 300 millions of words are 70% literary texts (33 literary magazines), 20
 | TV Subs | 28403842 | 3965 | 0 | 7163 | 0 |
 | Magazine Hall | 216763813 | 47629 | 0 | 4551 | 346 |
 
-## This project is a project in the HSE Compling framework
-https://www.hse.ru/ma/ling/
+## This project is a project in the [HSE Compling](https://www.hse.ru/ma/ling/) framework
 
 ## links to documentation, tagging, idea, etc
 to be added
