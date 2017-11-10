@@ -27,6 +27,7 @@ By now, 300 millions of words are 70% literary texts (33 literary magazines), 20
 | Lenta Ru | 7001491 | 34399 | 0 | 198 | 38 |
 | TV Subs | 28403842 | 3965 | 0 | 7163 | 0 |
 | Magazine Hall | 216763813 | 47629 | 0 | 4551 | 346 |
+{:.mbtablestyle}
 
 ## This project is a project in the [HSE Compling](https://www.hse.ru/en/ma/ling/) framework
 
