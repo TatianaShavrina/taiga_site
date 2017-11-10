@@ -17,6 +17,7 @@
 By now, 300 millions of words are 70% literary texts (33 literary magazines), 20% of news (Interfax, Fontanka, Lenta ru, Komsomolskaya Pravda, ) and 10% of other (popular science - NPlus1, culture - Arzamas, social networks - VKontakte, amateur poems - stihi.ru and prose - proza.ru), with crawlers available at https://github.com/TatianaShavrina/crawlers .
 
 ## Some corpus stats:
+<style>
 | resourse | words | texts | authors | mean text length | text |
 |---------------|-----------|-------|---------|------------------|------|
 | Stihi Ru | 750217 | 4167 | 107 | 177 | 34 |
@@ -27,7 +28,7 @@ By now, 300 millions of words are 70% literary texts (33 literary magazines), 20
 | Lenta Ru | 7001491 | 34399 | 0 | 198 | 38 |
 | TV Subs | 28403842 | 3965 | 0 | 7163 | 0 |
 | Magazine Hall | 216763813 | 47629 | 0 | 4551 | 346 |
-{:.mbtablestyle}
+</style>
 
 ## This project is a project in the [HSE Compling](https://www.hse.ru/en/ma/ling/) framework
 
