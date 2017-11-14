@@ -23,6 +23,7 @@ Taiga corpus is:
  ## Project creators
  - Tatiana Shavrina (rybolos@gmail.com)
  - Yana Kurmachova (yana.kurmacheva@gmail.com)
+ 
 Under inspiring supervision of Olga Lyashevskaya 
 
 ## References:
