@@ -8,12 +8,12 @@
 
 #### Распределение текстов по рубрикам:
 
-![](https://github.com/TatianaShavrina/taiga_site/blob/master/stats/arzamas_rubrics.png "corpus segments")
+![](/assets/arzamas_rubrics.png "corpus segments")
 
 #### Распределение текстов по авторам:
 
-![](https://github.com/TatianaShavrina/taiga_site/blob/master/stats/arzamas_authors.png "corpus segments")
+![](/assets/arzamas_authors.png "corpus segments")
 
 #### Распределение текстов по тегам:
 
-![](https://github.com/TatianaShavrina/taiga_site/blob/master/stats/arzamas_tags.png "corpus segments")
+![](/assets/arzamas_tags.png "corpus segments")
