@@ -29,35 +29,105 @@
 ### Стихи ру
 
 Метаатрибуты текстов:
-'textrubric' - жанр стиха
-'textid' - уникальный айди текста
-'textname' - заголовок
-'author' - ник автора
-'authortexts' - количество текстов автора
-'authorreaders' - количество читателей автора
-'date' - дата написания текста
-'time' - время написания текста
-'source' -  ссылка на первоисточник (иногда бывает удален)
+ - 'textrubric' - жанр стиха
+ - 'textid' - уникальный айди текста
+ - 'textname' - заголовок
+ - 'author' - ник автора
+ - 'authortexts' - количество текстов автора
+ - 'authorreaders' - количество читателей автора
+ - 'date' - дата написания текста
+ - 'time' - время написания текста
+ - 'source' -  ссылка на первоисточник (иногда бывает удален)
 
 Распределение стихов по textrubric:
-Больше статистики см здесь:
+
+Больше статистики см [здесь](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/stihi_ru.md)
 
 ### Проза ру
 
+Метаатрибуты текстов:
+ - 
+ 
+Распределение  по :
+
+Больше статистики см [здесь](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/proza_ru.md)
+
 ### Лента ру
+
+Метаатрибуты текстов:
+ - 
+ 
+Распределение  по :
+
+Больше статистики см [здесь](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/lenta_ru.md)
 
 ### Интерфакс 
 
+Метаатрибуты текстов:
+ - 
+ 
+Распределение  по :
+
+Больше статистики см [здесь](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/interfax.md)
+
 ### NPlus1 
+
+Метаатрибуты текстов:
+ - 
+ 
+Распределение  по :
+
+Больше статистики см [здесь](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/nplus1.md)
 
 ### Комсомольская правда
 
+Метаатрибуты текстов:
+ - 
+ 
+Распределение  по :
+
+Больше статистики см [здесь](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/komsomol.md)
+
 ### Журнальный зал
+
+Метаатрибуты текстов:
+ - 
+ 
+Распределение  по :
+
+Больше статистики см [здесь](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/magazines.md)
 
 ### Фонтанка ру
 
+Метаатрибуты текстов:
+ - 
+ 
+Распределение  по :
+
+Больше статистики см [здесь](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/fontanka.md)
+
 ### Арзамас 
+
+Метаатрибуты текстов:
+ - 
+Распределение  по :
+
+Больше статистики см [здесь](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/arzamas.md)
 
 ### TV Subtitles на русском  
 
+Метаатрибуты текстов:
+ - 
+ 
+Распределение  по :
+
+Больше статистики см [здесь](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/tvsubtitles_ru.md)
+
 ### TV Subtitles на других языках 
+
+Метаатрибуты текстов:
+ - 
+ 
+Распределение  по :
+
+Больше статистики см [здесь](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/tvsubtitles_ino.md)
