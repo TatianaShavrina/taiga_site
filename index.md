@@ -14,7 +14,17 @@
 - rare words studying, frequency dictionaries - literary magazines, social media
 - morphological and syntactic parsers - any resource with respect to the genre
 
-By now, 300 millions of words are 70% literary texts (33 literary magazines), 20% of news (Interfax, Fontanka, Lenta ru, Komsomolskaya Pravda, ) and 10% of other (popular science - NPlus1, culture - Arzamas, social networks - VKontakte, amateur poems - stihi.ru and prose - proza.ru), with crawlers available at https://github.com/TatianaShavrina/crawlers .
+By now, 300 millions of words are 70% literary texts (33 literary magazines), 20% of news (Interfax, Fontanka, Lenta ru, Komsomolskaya Pravda, ) and 10% of other (popular science - NPlus1, culture - Arzamas, social networks - VKontakte, amateur poems - stihi.ru and prose - proza.ru), with documentation [available](https://tatianashavrina.github.io/taiga_site/segments).
+
+$ cat image.md 
+{% include figure.html filename="foo.png" caption="Caption describing foo" alternative_text="foo text description" %}
+$ kramdown image.md 
+<figure>
+  <img
+  src="github-icon.png"
+  alt="foo text description">	
+  <figcaption>Caption describing foo</figcaption>
+</figure>
 
 ## Some stats about Taiga corpus:
 
