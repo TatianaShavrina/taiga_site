@@ -7,12 +7,12 @@
 
 #### Распределение стихов по textrubric:
 
-![alt text](https://github.com/TatianaShavrina/taiga_site/blob/master/stats/stihi_ru_rubrics.png "corpus segments")
+![](https://github.com/TatianaShavrina/taiga_site/blob/master/assets/css/stihi_ru_rubrics.png "corpus segments")
 
 #### Распределение стихов по авторам:
 
-![alt text](https://github.com/TatianaShavrina/taiga_site/blob/master/stats/stihi_ru_authortexts.png "corpus segments")
+![](https://github.com/TatianaShavrina/taiga_site/blob/master/assets/css/stihi_ru_authortexts.png "corpus segments")
 
 #### Распределение стихов по количеству читателей:
 
-![alt text](https://github.com/TatianaShavrina/taiga_site/blob/master/stats/stihi_ru_authorreaders.png "corpus segments")
+![](https://github.com/TatianaShavrina/taiga_site/blob/master/assets/css/stihi_ru_authorreaders.png "corpus segments")
