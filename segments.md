@@ -70,18 +70,34 @@
 ### Лента ру
 
 #### Метаатрибуты текстов:
- - 
+ - 'textid' - уникальный айди текста
+ - 'textname' - заголовок
+ - 'textrubric' - ребрика новости
+ - 'date' - дата написания текста
+ - 'time' - время написания текста
+ - 'tags' - теги новости
+ - 'source' -  ссылка на первоисточник (иногда бывает удален)
  
-Распределение  по :
+#### Распределение новостей по рубрикам:
+
+![alt text](https://github.com/TatianaShavrina/taiga_site/blob/master/stats/lenta_rubrics.png "corpus segments")
 
 Больше статистики см [здесь](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/lenta_ru.md)
 
 ### Интерфакс 
 
 #### Метаатрибуты текстов:
- - 
+ - 'textid' - уникальный айди текста
+ - 'textname' - заголовок
+ - 'textrubric' - рубрика новости
+ - 'date' - дата написания текста
+ - 'time' - время написания текста
+ - 'tags' - теги новости
+ - 'source' -  ссылка на первоисточник (иногда бывает удален)
  
-Распределение  по :
+#### Распределение новостей по тегам:
+
+![alt text](https://github.com/TatianaShavrina/taiga_site/blob/master/stats/interfax_tags.png "corpus segments")
 
 Больше статистики см [здесь](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/interfax.md)
 
