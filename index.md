@@ -16,14 +16,6 @@
 
 By now, 350 millions of words are 50% literary texts (33 literary magazines), 25% of news (Interfax, Fontanka, Lenta ru, Komsomolskaya Pravda, ) and 25% of other (popular science - NPlus1, culture - Arzamas, social networks - VKontakte, amateur poems - stihi.ru and prose - proza.ru), with documentation [available](https://tatianashavrina.github.io/taiga_site/segments).
 
-$ cat image.md 
-{% include figure.html filename="foo.png" caption="Caption describing foo" alternative_text="foo text description" %}
-$ kramdown image.md 
-<figure>
-  <img
-  src="github-icon.png"
-  alt="foo text description">	
-</figure>
 
 ## Some stats about Taiga corpus:
 
