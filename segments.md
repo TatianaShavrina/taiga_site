@@ -23,6 +23,9 @@
 | художественные тексты | 53398                | 239722547            | 189065703       | 2401                      |
 | остальное             | 33772                | 114354769            | 207782890       | 1177                      |
 
+#### Распределение токенов корпуса по сегментам
+
+![alt text](https://github.com/TatianaShavrina/taiga_site/blob/master/stats/pie-chart-taiga.png "corpus segments")
 
 # Карточки сегментов
 
