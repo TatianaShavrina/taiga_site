@@ -42,16 +42,28 @@
  - 'time' - время написания текста
  - 'source' -  ссылка на первоисточник (иногда бывает удален)
 
-Распределение стихов по textrubric:
+#### Распределение стихов по textrubric:
+
+![alt text](https://github.com/TatianaShavrina/taiga_site/blob/master/stats/stihi_ru_rubrics.png "corpus segments")
 
 Больше статистики см [здесь](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/stihi_ru.md)
 
 ### Проза ру
 
 #### Метаатрибуты текстов:
- - 
+ - 'textrubric' - жанр текста
+ - 'textid' - уникальный айди текста
+ - 'textname' - заголовок
+ - 'author' - ник автора
+ - 'authortexts' - количество текстов автора
+ - 'authorreaders' - количество читателей автора
+ - 'date' - дата написания текста
+ - 'time' - время написания текста
+ - 'source' -  ссылка на первоисточник (иногда бывает удален)
  
-Распределение  по :
+#### Распределение текстов по жанрам:
+
+![alt text](https://github.com/TatianaShavrina/taiga_site/blob/master/stats/proza_ru_textrubric.png "corpus segments")
 
 Больше статистики см [здесь](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/proza_ru.md)
 
