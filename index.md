@@ -1,6 +1,6 @@
 # Taiga - open-source corpus for machine learning
 
-![](https://github.com/TatianaShavrina/taiga_site/blob/master/assets/css/GNF_SecondaryImage_12.jpg)
+![](https://github.com/TatianaShavrina/taiga_site/blob/master/assets/GNF_SecondaryImage_12.jpg)
 
 ## We have gathered the resources with respect to popular NLP-problems:
 
