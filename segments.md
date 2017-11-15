@@ -104,18 +104,37 @@
 ### NPlus1 
 
 #### Метаатрибуты текстов:
- - 
+ - 'textid' - уникальный айди текста
+ - 'textname' - заголовок
+ - 'textdiff' - сложность текста
+ - 'author' - имя автора
+ - 'textrubric' - рубрика новости
+ - 'date' - дата написания текста
+ - 'time' - время написания текста
+ - 'tags' - теги новости
+ - 'source' -  ссылка на первоисточник (иногда бывает удален)
  
-Распределение  по :
+#### Распределение текстов по сложности:
+
+![alt text](https://github.com/TatianaShavrina/taiga_site/blob/master/stats/nplus1_diff.png "corpus segments")
 
 Больше статистики см [здесь](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/nplus1.md)
 
 ### Комсомольская правда
 
-Метаатрибуты текстов:
- - 
+#### Метаатрибуты текстов:
+ - 'textid' - уникальный айди текста
+ - 'textname' - заголовок
+ - 'textregion' - регион новости по поддомену
+ - 'textrubric' - рубрика новости
+ - 'date' - дата написания текста
+ - 'time' - время написания текста
+ - 'tags' - теги новости
+ - 'source' -  ссылка на первоисточник (иногда бывает удален)
  
-Распределение  по :
+#### Распределение новостей по регионам:
+
+![alt text](https://github.com/TatianaShavrina/taiga_site/blob/master/stats/kp_regions.png "corpus segments")
 
 Больше статистики см [здесь](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/komsomol.md)
 
