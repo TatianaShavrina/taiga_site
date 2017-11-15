@@ -8,12 +8,12 @@
 
 #### Распределение текстов по жанрам:
 
-![alt text](https://github.com/TatianaShavrina/taiga_site/blob/master/stats/proza_ru_textrubric.png "corpus segments")
+![](https://github.com/TatianaShavrina/taiga_site/blob/master/assets/css/proza_ru_textrubric.png "corpus segments")
 
 #### Распределение текстов по авторам:
 
-![alt text](https://github.com/TatianaShavrina/taiga_site/blob/master/stats/proza_ru_authortexts.png "corpus segments")
+![](https://github.com/TatianaShavrina/taiga_site/blob/master/assets/css/proza_ru_authortexts.png "corpus segments")
 
 #### Распределение текстов по количеству читателей:
 
-![alt text](https://github.com/TatianaShavrina/taiga_site/blob/master/stats/proza_ru_authorreaders.png "corpus segments")
+![](https://github.com/TatianaShavrina/taiga_site/blob/master/assets/css/proza_ru_authorreaders.png "corpus segments")
