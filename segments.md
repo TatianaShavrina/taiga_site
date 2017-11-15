@@ -25,7 +25,7 @@
 
 #### Распределение токенов корпуса по сегментам
 
-![alt text](https://github.com/TatianaShavrina/taiga_site/blob/master/stats/pie-chart-taiga.png "corpus segments")
+![alt text](https://github.com/TatianaShavrina/taiga_site/blob/master/stats/pie-chart-taiga.png "corpus segments"){:class="img-responsive"}
 
 # Карточки сегментов
 
