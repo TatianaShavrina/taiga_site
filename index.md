@@ -31,7 +31,7 @@ By now, 300 millions of words are 70% literary texts (33 literary magazines), 20
 | Arzamas (culture mag)         | 311                | 451720             | 371709          | 958.0                   |
 | TV Subtitles in Russian       | 7899               | 38300057           | 28429392        | 3609.0                  |
 | TV Subtitles in other langs   | 11112              | 63981638           | 49974754        | 4501.5                  |
-| <bTotal </b>                  | <b>544723</b>      | <b>446860950</b>   | <b>355146522</b>| <b>1206.5</b>           |
+| <b>Total </b>                 | <b>544723</b>      | <b>446860950</b>   | <b>355146522</b>| <b>1206.5</b>           |
 
 ## This project is a project in the [HSE Compling](https://www.hse.ru/en/ma/ling/) framework
 
