@@ -80,7 +80,7 @@
  
 #### Распределение новостей по рубрикам:
 
-![](https://github.com/TatianaShavrina/taiga_site/blob/master/assets/css/lenta_rubrics.png "corpus segments"){:class="img-responsive"}
+![](https://github.com/TatianaShavrina/taiga_site/blob/master/assets/css/lenta_rubrics.png "corpus segments")
 
 Больше статистики см [здесь](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/lenta_ru.md)
 
@@ -97,7 +97,7 @@
  
 #### Распределение новостей по тегам:
 
-![](https://github.com/TatianaShavrina/taiga_site/blob/master/assets/css/interfax_tags.png "corpus segments"){:class="img-responsive"}
+![](https://github.com/TatianaShavrina/taiga_site/blob/master/assets/css/interfax_tags.png "corpus segments")
 
 Больше статистики см [здесь](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/interfax.md)
 
@@ -149,10 +149,6 @@
  - 'time' - время написания текста
  - 'tags' - теги новости
  - 'source' -  ссылка на первоисточник (иногда бывает удален)
- 
-#### Распределение текстов по журналам:
-
-![](https://github.com/TatianaShavrina/taiga_site/blob/master/assets/magazines_journals.png)
 
 Больше статистики см [здесь](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/magazines.md)
 
