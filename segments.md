@@ -159,8 +159,20 @@
 ### Арзамас 
 
 #### Метаатрибуты текстов:
- - 
-Распределение  по :
+ - 'textid' - уникальный айди текста
+ - 'textname' - заголовок
+ - 'authors' - имя автора
+ - 'authorprofession' - профессия автора
+ - 'about_author' - короткое описание со страницы автора
+ - 'textrubric' - рубрика новости
+ - 'date' - дата написания текста
+ - 'time' - время написания текста
+ - 'tags' - теги новости
+ - 'source' -  ссылка на первоисточник (иногда бывает удален)
+       
+#### Распределение текстов по рубрикам:
+
+![](https://github.com/TatianaShavrina/taiga_site/blob/master/stats/arzamas_rubrics.png "corpus segments")
 
 Больше статистики см [здесь](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/arzamas.md)
 
