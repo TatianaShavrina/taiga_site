@@ -141,9 +141,18 @@
 ### Журнальный зал
 
 #### Метаатрибуты текстов:
- - 
+ - 'textid' - уникальный айди текста
+ - 'textname' - заголовок
+ - 'magazine' - название журнала
+ - 'author' - имя автора
+ - 'date' - дата написания текста
+ - 'time' - время написания текста
+ - 'tags' - теги новости
+ - 'source' -  ссылка на первоисточник (иногда бывает удален)
  
-Распределение  по :
+#### Распределение текстов по журналам:
+
+![](https://github.com/TatianaShavrina/taiga_site/blob/master/assets/magazines_journals.png)
 
 Больше статистики см [здесь](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/magazines.md)
 
@@ -172,24 +181,20 @@
        
 #### Распределение текстов по рубрикам:
 
-![](https://github.com/TatianaShavrina/taiga_site/blob/master/assets/css/arzamas_rubrics.png "corpus segments"){:class="img-responsive"}
+![](https://github.com/TatianaShavrina/taiga_site/blob/master/assets/css/arzamas_rubrics.png "corpus segments")
 
 Больше статистики см [здесь](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/arzamas.md)
 
-### TV Subtitles на русском  
+### TV Subtitles 
 
 #### Метаатрибуты текстов:
- - 
+ - 'textid' - уникальный айди текста
+ - 'title' - заголовок фильма
+ - 'language' - язык
+ - 'filepath' - путь к файлу
  
-Распределение  по :
+#### Распределение текстов по языкам:
 
-Больше статистики см [здесь](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/tvsubtitles_ru.md)
+![](https://github.com/TatianaShavrina/taiga_site/blob/master/assets/tvsubtitles_langs.png)
 
-### TV Subtitles на других языках 
-
-#### Метаатрибуты текстов:
- - 
- 
-Распределение  по :
-
-Больше статистики см [здесь](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/tvsubtitles_ino.md)
+Больше статистики см [здесь](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/tvsubtitles.md)
