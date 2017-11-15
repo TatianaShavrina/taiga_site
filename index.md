@@ -35,8 +35,8 @@ By now, 300 millions of words are 70% literary texts (33 literary magazines), 20
 
 ## This project is a project in the [HSE Compling](https://www.hse.ru/en/ma/ling/) framework
 
-## links to documentation, tagging, idea, etc
- - Corpus stats
+## Links to documentation, tagging, idea, etc
+ - [Corpus stats](https://github.com/TatianaShavrina/taiga_site/blob/master/segments.md)
  - Data format
  - Corpus pipeline and technologies
  - Our mission
@@ -44,4 +44,4 @@ By now, 300 millions of words are 70% literary texts (33 literary magazines), 20
 
 ## Support or Contact
 
-Check out our [documentation](https://github.com/TatianaShavrina/crawlers/) or [contact us](mailto:rybolos@gmail.com) and we’ll help you sort it out.
+Check out our [documentation](https://github.com/TatianaShavrina/taiga_site/blob/master/segments.md) or [contact us](mailto:rybolos@gmail.com) and we’ll help you sort it out.
