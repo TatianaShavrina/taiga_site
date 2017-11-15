@@ -7,5 +7,5 @@
 
 #### Распределение новостей по рубрикам:
 
-![alt text](https://github.com/TatianaShavrina/taiga_site/blob/master/stats/lenta_rubrics.png "corpus segments")
+![](https://github.com/TatianaShavrina/taiga_site/blob/master/assets/css/lenta_rubrics.png "corpus segments")
 
