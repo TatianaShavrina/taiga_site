@@ -16,19 +16,22 @@
 
 By now, 300 millions of words are 70% literary texts (33 literary magazines), 20% of news (Interfax, Fontanka, Lenta ru, Komsomolskaya Pravda, ) and 10% of other (popular science - NPlus1, culture - Arzamas, social networks - VKontakte, amateur poems - stihi.ru and prose - proza.ru), with crawlers available at https://github.com/TatianaShavrina/crawlers .
 
-## Some corpus stats:
+## Some stats about Taiga corpus:
 
-| resourse | words | texts | authors | mean text length | text |
-|---------------|-----------|-------|---------|------------------|-----:|
-| Stihi Ru | 750217 | 4167 | 107 | 177 | 34 |
-| Proza Ru | 20513805 | 7527 | 82 | 2729 | 36 |
-| NPlus1 | 1692326 | 7696 | 34 | 221 | 26 |
-| Interfax | 6579301 | 48107 | 0 | 137 | 8 |
-| Koms.Pravda | 5000341 | 45503 | 652 | 109 | 986 |
-| Lenta Ru | 7001491 | 34399 | 0 | 198 | 38 |
-| TV Subs | 28403842 | 3965 | 0 | 7163 | 0 |
-| Magazine Hall | 216763813 | 47629 | 0 | 4551 | 346 |
-
+| Resource                      | texts              | tokens             | words           | median words per text   |
+|-------------------------------|--------------------|--------------------|-----------------|------------------------:|
+| stihi ru (poems)              | 4249               | 1040449            | 813413          | 96.0                    |
+| proza ru (proze)              | 2505               | 8490399            | 6716361         | 1009.0                  |
+| Lenta ru (news)               | 36446              | 8752681            | 7290281         | 179.0                   |
+| Interfax (news)               | 46429              | 7301002            | 6128555         | 87.0                    |
+| NPlus1  (popular science)     | 7696               | 2090506            | 1788361         | 213.0                   |
+| Komsomol truth (news)         | 45503              | 5683046            | 4723543         | 102.0                   |
+| magazine Hall (literature)    | 39890              | 239722547          | 189065703       | 2401.0                  |
+| Fontanka ru (news)            | 342683             | 71046905           | 59844450        | 117.0                   |
+| Arzamas (culture mag)         | 311                | 451720             | 371709          | 958.0                   |
+| TV Subtitles in Russian       | 7899               | 38300057           | 28429392        | 3609.0                  |
+| TV Subtitles in other langs   | 11112              | 63981638           | 49974754        | 4501.5                  |
+| <bTotal </b>                  | <b>544723</b>      | <b>446860950</b>   | <b>355146522</b>| <b>1206.5</b>           |
 
 ## This project is a project in the [HSE Compling](https://www.hse.ru/en/ma/ling/) framework
 
