@@ -155,9 +155,18 @@
 ### Фонтанка ру
 
 #### Метаатрибуты текстов:
- - 
+ - 'textid' - уникальный айди текста
+ - 'textname' - заголовок
+ - 'textregion' - регион новости
+ - 'textrubric' - рубрика новости
+ - 'date' - дата написания текста
+ - 'time' - время написания текста
+ - 'tags' - теги новости
+ - 'source' -  ссылка на первоисточник (иногда бывает удален)
  
-Распределение  по :
+#### Распределение новостей по годам:
+
+![](https://github.com/TatianaShavrina/taiga_site/blob/master/assets/fontanka_years.png )
 
 Больше статистики см [здесь](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/fontanka.md)
 
