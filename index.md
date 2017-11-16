@@ -46,3 +46,4 @@ By now, 350 millions of words are 50% literary texts (33 literary magazines), 25
 ## Support or Contact
 
 Check out our [documentation](https://github.com/TatianaShavrina/taiga_site/blob/master/segments.md) or [contact us](mailto:rybolos@gmail.com) and we’ll help you sort it out.
+We welcome users to ask question on [Google Groups](https://groups.google.com/forum/#!forum/taigacorpus)!
