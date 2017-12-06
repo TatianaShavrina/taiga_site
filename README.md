@@ -8,7 +8,7 @@
  
 Taiga corpus is an ambitious project to become the largest fully available webcorpus constructed from open text sources. 
 Taiga corpus is:
- - open source, CC BY-NC-SA 3.0 
+ - open source, CC BY-SA 3.0 
  - big - about 400 million words by now 
  - sorted by datasets applicable to different machine laearning tasks
  - made by linguists, experienced in text crawling, parsing and filtering
