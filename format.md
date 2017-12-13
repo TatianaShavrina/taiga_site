@@ -6,33 +6,24 @@
 # newdoc
 # newpar
 # sent_id = 1
-# text = -- На кой он ляд , чтоб мыши , что ли , грызли , -- Кряхтел Матвей , -- мне впору на тот свет ...
-1	-	-	PUNCT	_	_	_	_	_	SpaceAfter=No
-2	-	-	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-3	На	на	ADP	_	_	_	_	_	SpacesAfter=\r\n
-4	кой	ка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\r\n
-5	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	_	_	_	SpacesAfter=\r\n
-6	ляд	ляд	ADV	_	Degree=Pos	_	_	_	SpacesAfter=\r\n
-7	,	,	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-8	чтоб	чтобы	SCONJ	_	Mood=Cnd	_	_	_	SpacesAfter=\r\n
-9	мыши	мышь	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Plur	_	_	_	SpacesAfter=\r\n
-10	,	,	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-11	что	что	PRON	_	Case=Nom	_	_	_	SpacesAfter=\r\n
-12	ли	ли	PART	_	_	_	_	_	SpacesAfter=\r\n
-13	,	,	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-14	грызли	грызать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n
-15	,	,	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-16	--	--	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-17	Кряхтел	кряхтел	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-18	Матвей	Матво	ADV	_	Degree=Cmp	_	_	_	SpacesAfter=\r\n
-19	,	,	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-20	--	--	PUNCT	_	_	_	_	_	SpacesAfter=\r\n
-21	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	_	_	_	SpacesAfter=\r\n
-22	впору	впору	ADV	_	Degree=Pos	_	_	_	SpacesAfter=\r\n
-23	на	на	ADP	_	_	_	_	_	SpacesAfter=\r\n
-24	тот	тот	DET	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-25	свет	свет	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n
-26	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+# 2003Armeniya.xml 1
+# text = В советский период времени число ИТ- специалистов в Армении составляло около десяти тысяч.
+# sent_id = 1
+1	В	в	ADP	_	_	3	case	3:case	_
+2	советский	советский	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	3	amod	3:amod	_
+3	период	период	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	11	obl	11:obl	_
+4	времени	время	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	nmod	3:nmod	_
+5	число	число	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	11	obj	11:obj	_
+6	ИТ	ит	PROPN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	8	compound	8:compound	SpaceAfter=No
+7	-	-	PUNCT	_	_	6	punct	6:punct	_
+8	специалистов	специалист	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	5	nmod	5:nmod	_
+9	в	в	ADP	_	_	10	case	10:case	_
+10	Армении	армения	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	5	nmod	5:nmod	_
+11	составляло	составлять	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+12	около	около	ADP	_	_	14	case	14:case	_
+13	десяти	десять	NUM	_	Case=Gen	14	nummod	14:nummod	_
+14	тысяч	тысяча	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	11	nsubj	11:nsubj	SpaceAfter=No
+15	.	.	PUNCT	_	_	14	punct	14:punct	_
 
 ```
 ## conllu
