@@ -1,4 +1,8 @@
-# Corpus segments 
+---
+permalink: /segments/
+---
+
+# Corpus segments
 
 | Ресурс                        | количество текстов | количество токенов | количество слов | в среднем слов на текст |
 |-------------------------------|--------------------|--------------------|-----------------|------------------------:|
@@ -14,7 +18,7 @@
 | TV Subtitles на русском       | 7899               | 38300057           | 28429392        | 3609.0                  |
 | TV Subtitles на других языках | 11112              | 63981638           | 49974754        | 4501.5                  |
 | <b>Всего </b>                 | <b>544723</b>      | <b>446860950</b>   | <b>355146522</b>| <b>1206.5</b>           |
-			
+
 # Распределение сегментов
 
 | Ресурс                | количество   текстов | количество   токенов | количество слов | в среднем слов   на текст |
@@ -25,7 +29,7 @@
 
 #### Распределение токенов корпуса по сегментам
 
-![](https://github.com/TatianaShavrina/taiga_site/blob/master/assets/css/pie-chart-taiga.png "corpus segments")
+![alt text](/assets/images/pie-chart-taiga.png "corpus segments")
 
 # Карточки сегментов
 
@@ -44,9 +48,9 @@
 
 #### Распределение стихов по textrubric:
 
-![](https://github.com/TatianaShavrina/taiga_site/blob/master/assets/css/stihi_ru_rubrics.png "corpus segments")
+![alt text](/assets/images/stihi_ru_rubrics.png "corpus segments")
 
-Больше статистики см [здесь](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/stihi_ru.md)
+Больше статистики см. [здесь](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/stihi_ru.md)
 
 ### Проза ру
 
@@ -60,12 +64,12 @@
  - 'date' - дата написания текста
  - 'time' - время написания текста
  - 'source' -  ссылка на первоисточник (иногда бывает удален)
- 
+
 #### Распределение текстов по жанрам:
 
-![](https://github.com/TatianaShavrina/taiga_site/blob/master/assets/css/proza_ru_textrubric.png "corpus segments"){:class="img-responsive"}
+![alt text](/assets/images/proza_ru_textrubric.png "corpus segments")
 
-Больше статистики см [здесь](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/proza_ru.md)
+Больше статистики см. [здесь](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/proza_ru.md)
 
 ### Лента ру
 
@@ -77,14 +81,14 @@
  - 'time' - время написания текста
  - 'tags' - теги новости
  - 'source' -  ссылка на первоисточник (иногда бывает удален)
- 
+
 #### Распределение новостей по рубрикам:
 
-![](https://github.com/TatianaShavrina/taiga_site/blob/master/assets/css/lenta_rubrics.png "corpus segments")
+![alt text](/assets/images/lenta_rubrics.png "corpus segments")
 
-Больше статистики см [здесь](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/lenta_ru.md)
+Больше статистики см. [здесь](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/lenta_ru.md)
 
-### Интерфакс 
+### Интерфакс
 
 #### Метаатрибуты текстов:
  - 'textid' - уникальный айди текста
@@ -94,14 +98,14 @@
  - 'time' - время написания текста
  - 'tags' - теги новости
  - 'source' -  ссылка на первоисточник (иногда бывает удален)
- 
+
 #### Распределение новостей по тегам:
 
-![](https://github.com/TatianaShavrina/taiga_site/blob/master/assets/css/interfax_tags.png "corpus segments")
+![alt text](/assets/images/interfax_tags.png "corpus segments")
 
-Больше статистики см [здесь](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/interfax.md)
+Больше статистики см. [здесь](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/interfax.md)
 
-### NPlus1 
+### NPlus1
 
 #### Метаатрибуты текстов:
  - 'textid' - уникальный айди текста
@@ -113,12 +117,12 @@
  - 'time' - время написания текста
  - 'tags' - теги новости
  - 'source' -  ссылка на первоисточник (иногда бывает удален)
- 
+
 #### Распределение текстов по сложности:
 
-![](https://github.com/TatianaShavrina/taiga_site/blob/master/assets/css/nplus1_diff.png "corpus segments"){:class="img-responsive"}
+![alt text](/assets/images/nplus1_diff.png "corpus segments")
 
-Больше статистики см [здесь](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/nplus1.md)
+Больше статистики см. [здесь](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/nplus1.md)
 
 ### Комсомольская правда
 
@@ -131,12 +135,12 @@
  - 'time' - время написания текста
  - 'tags' - теги новости
  - 'source' -  ссылка на первоисточник (иногда бывает удален)
- 
+
 #### Распределение новостей по регионам:
 
-![](https://github.com/TatianaShavrina/taiga_site/blob/master/assets/css/kp_regions.png "corpus segments"){:class="img-responsive"}
+![alt text](/assets/images/kp_regions.png "corpus segments")
 
-Больше статистики см [здесь](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/komsomol.md)
+Больше статистики см. [здесь](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/komsomol.md)
 
 ### Журнальный зал
 
@@ -150,7 +154,7 @@
  - 'tags' - теги новости
  - 'source' -  ссылка на первоисточник (иногда бывает удален)
 
-Больше статистики см [здесь](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/magazines.md)
+Больше статистики см. [здесь](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/magazines.md)
 
 ### Фонтанка ру
 
@@ -163,14 +167,14 @@
  - 'time' - время написания текста
  - 'tags' - теги новости
  - 'source' -  ссылка на первоисточник (иногда бывает удален)
- 
+
 #### Распределение новостей по годам:
 
-![](https://github.com/TatianaShavrina/taiga_site/blob/master/assets/fontanka_years.png )
+![alt text](/assets/images/fontanka_years.png "corpus segments")
 
-Больше статистики см [здесь](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/fontanka.md)
+Больше статистики см. [здесь](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/fontanka.md)
 
-### Арзамас 
+### Арзамас
 
 #### Метаатрибуты текстов:
  - 'textid' - уникальный айди текста
@@ -183,23 +187,23 @@
  - 'time' - время написания текста
  - 'tags' - теги новости
  - 'source' -  ссылка на первоисточник (иногда бывает удален)
-       
+
 #### Распределение текстов по рубрикам:
 
-![](https://github.com/TatianaShavrina/taiga_site/blob/master/assets/css/arzamas_rubrics.png "corpus segments")
+![alt text](/assets/images/arzamas_rubrics.png "corpus segments")
 
-Больше статистики см [здесь](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/arzamas.md)
+Больше статистики см. [здесь](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/arzamas.md)
 
-### TV Subtitles 
+### TV Subtitles
 
 #### Метаатрибуты текстов:
  - 'textid' - уникальный айди текста
  - 'title' - заголовок фильма
  - 'language' - язык
  - 'filepath' - путь к файлу
- 
+
 #### Распределение текстов по языкам:
 
-![](https://github.com/TatianaShavrina/taiga_site/blob/master/assets/tvsubtitles_langs.png)
+![alt text](/assets/images/tvsubtitles_langs.png "corpus segments")
 
-Больше статистики см [здесь](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/tvsubtitles.md)
+Больше статистики см. [здесь](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/tvsubtitles.md)
