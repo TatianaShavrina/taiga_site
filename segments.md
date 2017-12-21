@@ -1,5 +1,5 @@
 ---
-permalink: /segments/
+permalink: /segments
 ---
 
 # Corpus segments

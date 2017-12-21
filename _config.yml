@@ -3,6 +3,7 @@ description: An open-source corpus for machine learning.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
+baseurl: /taiga-corpus-website
 
 # files excluded from Jekyll builds
 exclude:

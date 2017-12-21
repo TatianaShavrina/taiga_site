@@ -1,5 +1,5 @@
 ---
-permalink: /pipeline/
+permalink: /pipeline
 ---
 
 # Corpus construction pipeline

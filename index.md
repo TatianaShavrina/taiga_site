@@ -37,10 +37,10 @@ By now, 350 millions of words are 50% literary texts (33 literary magazines), 25
 ## This project is a project in the [HSE Compling](https://www.hse.ru/en/ma/ling/) framework
 
 ## Links to documentation, tagging, idea, etc
- - [Corpus stats](/segments/)
- - [Data format](/format/)
- - [Corpus pipeline and technologies](/pipeline/)
- - [Our mission](/mission/)
+ - [Corpus stats]({{ site.baseurl }}/segments)
+ - [Data format]({{ site.baseurl }}/format)
+ - [Corpus pipeline and technologies]({{ site.baseurl }}/pipeline)
+ - [Our mission]({{ site.baseurl }}/mission)
 
 
 ## Support or Contact

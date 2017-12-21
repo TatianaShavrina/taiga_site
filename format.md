@@ -1,5 +1,5 @@
 ---
-permalink: /format/
+permalink: /format
 ---
 
 # Формат разметки

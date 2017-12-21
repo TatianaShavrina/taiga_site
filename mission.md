@@ -1,5 +1,5 @@
 ---
-permalink: /mission/
+permalink: /mission
 ---
 
 Здесь будет описание, зачем нужен наш корпус
