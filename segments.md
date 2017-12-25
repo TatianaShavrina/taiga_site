@@ -29,7 +29,7 @@ permalink: /segments
 
 #### Распределение токенов корпуса по сегментам
 
-![alt text](/assets/images/pie-chart-taiga.png "corpus segments")
+![alt text]({{ site.baseurl }}/assets/images/pie-chart-taiga.png "corpus segments")
 
 # Карточки сегментов
 
@@ -48,7 +48,7 @@ permalink: /segments
 
 #### Распределение стихов по textrubric:
 
-![alt text](/assets/images/stihi_ru_rubrics.png "corpus segments")
+![alt text]({{ site.baseurl }}/assets/images/stihi_ru_rubrics.png "corpus segments")
 
 Больше статистики см. [здесь](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/stihi_ru.md)
 
@@ -67,7 +67,7 @@ permalink: /segments
 
 #### Распределение текстов по жанрам:
 
-![alt text](/assets/images/proza_ru_textrubric.png "corpus segments")
+![alt text]({{ site.baseurl }}/assets/images/proza_ru_textrubric.png "corpus segments")
 
 Больше статистики см. [здесь](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/proza_ru.md)
 
@@ -84,7 +84,7 @@ permalink: /segments
 
 #### Распределение новостей по рубрикам:
 
-![alt text](/assets/images/lenta_rubrics.png "corpus segments")
+![alt text]({{ site.baseurl }}/assets/images/lenta_rubrics.png "corpus segments")
 
 Больше статистики см. [здесь](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/lenta_ru.md)
 
@@ -101,7 +101,7 @@ permalink: /segments
 
 #### Распределение новостей по тегам:
 
-![alt text](/assets/images/interfax_tags.png "corpus segments")
+![alt text]({{ site.baseurl }}/assets/images/interfax_tags.png "corpus segments")
 
 Больше статистики см. [здесь](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/interfax.md)
 
@@ -120,7 +120,7 @@ permalink: /segments
 
 #### Распределение текстов по сложности:
 
-![alt text](/assets/images/nplus1_diff.png "corpus segments")
+![alt text]({{ site.baseurl }}/assets/images/nplus1_diff.png "corpus segments")
 
 Больше статистики см. [здесь](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/nplus1.md)
 
@@ -138,7 +138,7 @@ permalink: /segments
 
 #### Распределение новостей по регионам:
 
-![alt text](/assets/images/kp_regions.png "corpus segments")
+![alt text]({{ site.baseurl }}/assets/images/kp_regions.png "corpus segments")
 
 Больше статистики см. [здесь](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/komsomol.md)
 
@@ -170,7 +170,7 @@ permalink: /segments
 
 #### Распределение новостей по годам:
 
-![alt text](/assets/images/fontanka_years.png "corpus segments")
+![alt text]({{ site.baseurl }}/assets/images/fontanka_years.png "corpus segments")
 
 Больше статистики см. [здесь](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/fontanka.md)
 
@@ -190,7 +190,7 @@ permalink: /segments
 
 #### Распределение текстов по рубрикам:
 
-![alt text](/assets/images/arzamas_rubrics.png "corpus segments")
+![alt text]({{ site.baseurl }}/assets/images/arzamas_rubrics.png "corpus segments")
 
 Больше статистики см. [здесь](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/arzamas.md)
 
@@ -204,6 +204,6 @@ permalink: /segments
 
 #### Распределение текстов по языкам:
 
-![alt text](/assets/images/tvsubtitles_langs.png "corpus segments")
+![alt text]({{ site.baseurl }}/assets/images/tvsubtitles_langs.png "corpus segments")
 
 Больше статистики см. [здесь](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/tvsubtitles.md)
