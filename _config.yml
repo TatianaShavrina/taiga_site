@@ -1,1 +1,18 @@
+title: Taiga Сorpus
+description: An open-source corpus for machine learning.
+#show_downloads: true
+google_analytics:
 theme: jekyll-theme-cayman
+baseurl: /taiga_site
+
+# files excluded from Jekyll builds
+exclude:
+- README.md
+- CNAME
+- LICENSE
+- Gemfile
+- Gemfile.lock
+
+# site settings
+encoding: utf-8
+lang: en-GB
