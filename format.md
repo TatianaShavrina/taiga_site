@@ -1,9 +1,5 @@
 
 # Data format
-=======
----
-permalink: /format
----
 
 
 Тексты проходят унификацию символов, токенизацию, затем размечаются морфологически в формате Universal Dependencies 2.0, conllu
