@@ -1,6 +1,6 @@
-# Taiga - open-source corpus for machine learning
-
-![](https://github.com/TatianaShavrina/taiga_site/blob/master/assets/GNF_SecondaryImage_12.jpg)
+---
+layout: default
+---
 
 ## We have gathered the resources with respect to popular NLP-problems:
 
@@ -9,7 +9,7 @@
 - NER and fact extraction - news with references to mentioned person’s page or wiki-information, news with personalia tags
 - key-words extraction - news with key-word tags, hashtags on social media
 - authorship attribution - all the texts with author information - magazines, news, and more important - social media - with gender, age, city, time and education mark-up.
-- chat-bot training - open-source film subtitles 
+- chat-bot training - open-source film subtitles
 - text generation - any resource depending on genre
 - rare words studying, frequency dictionaries - literary magazines, social media
 - morphological and syntactic parsers - any resource with respect to the genre
@@ -37,10 +37,10 @@ By now, 350 millions of words are 50% literary texts (33 literary magazines), 25
 ## This project is a project in the [HSE Compling](https://www.hse.ru/en/ma/ling/) framework
 
 ## Links to documentation, tagging, idea, etc
- - [Corpus stats](https://tatianashavrina.github.io/taiga_site/segments)
- - [Data format](https://tatianashavrina.github.io/taiga_site/format)
- - [Corpus pipeline and technologies](https://tatianashavrina.github.io/taiga_site/pipeline)
- - [Our mission](https://tatianashavrina.github.io/taiga_site/mission)
+ - [Corpus stats]({{ site.baseurl }}/segments)
+ - [Data format]({{ site.baseurl }}/format)
+ - [Corpus pipeline and technologies]({{ site.baseurl }}/pipeline)
+ - [Our mission]({{ site.baseurl }}/mission)
 
 
 ## Support or Contact
