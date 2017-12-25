@@ -1,4 +1,4 @@
-# Формат разметки
+# Data format
 
 Тексты проходят унификацию символов, токенизацию, затем размечаются морфологически в формате Universal Dependencies 2.0, conllu
 
@@ -27,9 +27,10 @@
 
 ```
 ## conllu
- - кратко суть формата
 
 
-## как хранятся размеченные тексты
- - архив с текстами и метатаблицами
- - база данных
+
+## Text storage
+Each of the segments you can download in 2 formats:
+1. As an archive with plain texts, tagged texts and tables with metadata 
+2. As a sqlite3 database with tables for metadata, tagged texts and plain texts
