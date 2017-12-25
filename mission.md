@@ -33,7 +33,7 @@ By now, our corpus contains data from 11 sites, 44 sources and is of 480 million
 
 ### We have gathered the resources with respect to popular NLP-problems:
 
-1. thematic modelling - news with theme tags, all the sites which provide rubrication (news, poems, prose)
++ thematic modelling - news with theme tags, all the sites which provide rubrication (news, poems, prose)
 + readability of texts - a popular science magazine NPlus1 has a readability metric for each text, provided by editor.
 + NER and fact extraction - news with references to mentioned person’s page or wiki-information, news with personalia tags
 + key-words extraction - news with key-word tags, hashtags on social media
@@ -45,7 +45,7 @@ By now, our corpus contains data from 11 sites, 44 sources and is of 480 million
 
 
 ### References
-1. Kilgarriff, A. (2001). The Web as corpus. Proceedings of Corpus Linguistics 2001
++ Kilgarriff, A. (2001). The Web as corpus. Proceedings of Corpus Linguistics 2001
 + Baroni, M., Bernardini, S., Ferraresi, A., & Zanchetta, E. (2009). The WaCky wide Web: A collection of very large linguistically processed Web-crawled corpora. Language Resources and Evaluation, 43, 209–226.
 + Benko, Vladimir (2014) Aranea: Yet Another Family of (Comparable) Web Corpora. In Petr Sojka, Ales Horak, Ivan Kopecek and Karel Pala (Eds.): Text, Speech and Dialogue. 17th International Conference, TSD 2014, Brno, Czech Republic, September 8-12, 2014. Proceedings. LNCS 8655.Springer International Publishing Switzerland, 2014. pp. 257-264. ISBN: 978-3-319-10815-5 (Print), 978-3-319-10816-2 (Online).
 + Jakubicek, M., A. Kilgarriff, V. Kovar, P. Rychly, and V. Suchomel (2013) The TenTen corpus family. Lancaster: In Proc. Int. Conf. on Corpus Linguistics.
