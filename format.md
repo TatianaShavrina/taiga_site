@@ -32,8 +32,6 @@ Then they are distributed in conllu format:
 15	.	.	PUNCT	_	_	14	punct	14:punct	_
 
 ```
-## conllu
-
 
 
 ## Text storage
