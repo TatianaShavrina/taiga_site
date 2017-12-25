@@ -1,8 +1,12 @@
 
 # Data format
 
-
-Тексты проходят унификацию символов, токенизацию, затем размечаются морфологически в формате Universal Dependencies 2.0, conllu
+All tagged text are deduplicated, then go through our pipeline of
+ - symbol unification
+ - tokenization 
+ - morphological and syntactic parsing with Udpipe, Universal Dependencies 2.0
+ (see Pipeline)
+Then they are distributed in conllu format:
 
 ```
 # newdoc
