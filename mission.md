@@ -59,8 +59,4 @@ By now, our corpus contains data from 11 sites, 44 sources and is of 480 million
 + Lyashevskaya, O., Droganova K., Zeman, D., Alexeeva, M., Gavrilova, T., Mustafina, N., Shakurova, E. (2016). Universal Dependencies for Russian: a New Syntactic Dependencies Tagset. In Series: Linguistics, WP BRP 44/LNG/2016.
 + Lagutin M., Kuratov Y., Kopylov N. (2016) Statistical processing  of  Search results in differential corpora. Computational Linguistics and Intellectual Technologies: Proceedings of the International Conference “Dialogue 2016” Moscow, June 1–4, 2016
 
-=======
----
-permalink: /mission
----
 
