@@ -4,7 +4,6 @@
 <h3>All corpus (6 GB)</h3><a href="http://bit.ly/2BzJKxc" class="btn-small">text files</a> <a href="http://bit.ly/2l8fbHT" class="btn-small">database</a>
 
 ## Our special collections for
-
 ### Readability (NPlus1)
 <a href="http://bit.ly/2C2dpQQ" class="btn-small">text files</a> <a href="http://bit.ly/2lbpuuK" class="btn-small">database</a>
 
