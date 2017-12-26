@@ -14,6 +14,17 @@
 
 By now, 350 millions of words are 50% literary texts (33 literary magazines), 25% of news (Interfax, Fontanka, Lenta ru, Komsomolskaya Pravda, ) and 25% of other (popular science - NPlus1, culture - Arzamas, social networks - VKontakte, amateur poems - stihi.ru and prose - proza.ru), with documentation [available](https://tatianashavrina.github.io/taiga_site/segments).
 
+In our methodological preparation for creating a new resource, we have postulated 5 main principles: 
+1) open source 
+2) big data 
+3) clear data 
+4) coverage of linguistic variation 
+Corpus data should represent all possible variability in unbiased proportions for each separate resource. 
+5) solvability in a given metric 
+(аdequacy of data composition and its’ features to the applications)
+
+With these principles, we believe that a corpus product that meets modern requirements of corpus linguistics can be created - it will not be a black box, it will be reflecting modern language and its features, not biased and capable of encouraging more cooperation between developers and linguists. 
+
 
 ## Some stats about Taiga corpus:
 
@@ -36,12 +47,6 @@ By now, 350 millions of words are 50% literary texts (33 literary magazines), 25
 
 ## References:
 Shavrina T., Shapovalova O. (2017) TO THE METHODOLOGY OF CORPUS CONSTRUCTION FOR MACHINE LEARNING: «TAIGA» SYNTAX TREE CORPUS AND PARSER. in proc. of "CORPORA2017", international conference , Saint-Petersbourg, 2017.
-
-## Links to documentation, tagging, idea, etc
- - [Corpus stats and downloads]({{ site.baseurl }}/segments)
- - [Data format, pipeline and technologies]({{ site.baseurl }}/pipeline)
- - [Our mission]({{ site.baseurl }}/mission)
-
 
 ## Support or Contact
 
