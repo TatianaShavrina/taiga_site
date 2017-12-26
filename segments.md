@@ -1,6 +1,3 @@
----
-permalink: /segments
----
 
 # Corpus segments
 
@@ -19,191 +16,191 @@ permalink: /segments
 | TV Subtitles на других языках | 11112              | 63981638           | 49974754        | 4501.5                  |
 | <b>Всего </b>                 | <b>544723</b>      | <b>446860950</b>   | <b>355146522</b>| <b>1206.5</b>           |
 
-# Распределение сегментов
+# Segment distribution
 
-| Ресурс                | количество   текстов | количество   токенов | количество слов | в среднем слов   на текст |
+| Resource              | texts                | tokens               | words           | words, median per text    |
 |-----------------------|----------------------|----------------------|-----------------|--------------------------:|
-| новости               | 471061               | 92783634             | 81563551        | 121.25                    |
-| художественные тексты | 53398                | 239722547            | 189065703       | 2401                      |
-| остальное             | 33772                | 114354769            | 207782890       | 1177                      |
+| news                  | 471061               | 92783634             | 81563551        | 121.25                    |
+| literature            | 53398                | 239722547            | 189065703       | 2401                      |
+| other                 | 33772                | 114354769            | 207782890       | 1177                      |
 
-#### Распределение токенов корпуса по сегментам
+#### Token distribution per segment
 
 ![alt text]({{ site.baseurl }}/assets/images/pie-chart-taiga.png "corpus segments")
 
-# Карточки сегментов
+# Segment information
 
-### Стихи ру
+### Stihi ru
 
-#### Метаатрибуты текстов:
- - 'textrubric' - жанр стиха
- - 'textid' - уникальный айди текста
- - 'textname' - заголовок
- - 'author' - ник автора
- - 'authortexts' - количество текстов автора
- - 'authorreaders' - количество читателей автора
- - 'date' - дата написания текста
- - 'time' - время написания текста
- - 'source' -  ссылка на первоисточник (иногда бывает удален)
+#### Text metaattributes:
+ - 'textrubric' - poem genre
+ - 'textid' - unique text id
+ - 'textname' - title
+ - 'author' - authors nickname
+ - 'authortexts' - amount of authors texts
+ - 'authorreaders' - amount of authors readers
+ - 'date' - date text was written
+ - 'time' - time text was written
+ - 'source' -  URL (sometimes can be not available any more)
 
-#### Распределение стихов по textrubric:
+#### Textrubric distribution of poems:
 
 ![alt text]({{ site.baseurl }}/assets/images/stihi_ru_rubrics.png "corpus segments")
 
-Больше статистики см. [здесь](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/stihi_ru.md)
+For more statistics [see](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/stihi_ru.md)
 
-### Проза ру
+### Proza ru
 
-#### Метаатрибуты текстов:
- - 'textrubric' - жанр текста
- - 'textid' - уникальный айди текста
- - 'textname' - заголовок
- - 'author' - ник автора
- - 'authortexts' - количество текстов автора
- - 'authorreaders' - количество читателей автора
- - 'date' - дата написания текста
- - 'time' - время написания текста
- - 'source' -  ссылка на первоисточник (иногда бывает удален)
+#### Text metaattributes:
+ - 'textrubric' - text genre
+ - 'textid' - unique text id
+ - 'textname' - title
+ - 'author' - authors nickname
+ - 'authortexts' - amount of authors texts
+ - 'authorreaders' - amount of authors readers
+ - 'date' - date text was written
+ - 'time' - time text was written
+ - 'source' -  URL (sometimes can be not available any more)
 
-#### Распределение текстов по жанрам:
+#### Genre distribution of texts:
 
 ![alt text]({{ site.baseurl }}/assets/images/proza_ru_textrubric.png "corpus segments")
 
-Больше статистики см. [здесь](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/proza_ru.md)
+For more statistics [see](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/proza_ru.md)
 
-### Лента ру
+### Lenta ru
 
-#### Метаатрибуты текстов:
- - 'textid' - уникальный айди текста
- - 'textname' - заголовок
- - 'textrubric' - ребрика новости
- - 'date' - дата написания текста
- - 'time' - время написания текста
- - 'tags' - теги новости
- - 'source' -  ссылка на первоисточник (иногда бывает удален)
+#### Text metaattributes:
+ - 'textid' - unique text id
+ - 'textname' - title
+ - 'textrubric' - rubrics
+ - 'date' - date text was written
+ - 'time' - time text was written
+ - 'tags' - tags
+ - 'source' - URL (sometimes can be not available any more)
 
-#### Распределение новостей по рубрикам:
+#### Rubric distribution of news:
 
 ![alt text]({{ site.baseurl }}/assets/images/lenta_rubrics.png "corpus segments")
 
-Больше статистики см. [здесь](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/lenta_ru.md)
+For more statistics [see](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/lenta_ru.md)
 
-### Интерфакс
+### Interfax
 
-#### Метаатрибуты текстов:
- - 'textid' - уникальный айди текста
- - 'textname' - заголовок
- - 'textrubric' - рубрика новости
- - 'date' - дата написания текста
- - 'time' - время написания текста
- - 'tags' - теги новости
- - 'source' -  ссылка на первоисточник (иногда бывает удален)
+#### Text metaattributes:
+ - 'textid' - unique text id
+ - 'textname' - title
+ - 'textrubric' - rubrics
+ - 'date' - date text was written
+ - 'time' - time text was written
+ - 'tags' - tags
+ - 'source' - URL (sometimes can be not available any more)
 
-#### Распределение новостей по тегам:
+#### Rubric distribution of news:
 
 ![alt text]({{ site.baseurl }}/assets/images/interfax_tags.png "corpus segments")
 
-Больше статистики см. [здесь](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/interfax.md)
+For more statistics [see](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/interfax.md)
 
 ### NPlus1
 
-#### Метаатрибуты текстов:
- - 'textid' - уникальный айди текста
- - 'textname' - заголовок
- - 'textdiff' - сложность текста
- - 'author' - имя автора
- - 'textrubric' - рубрика новости
- - 'date' - дата написания текста
- - 'time' - время написания текста
- - 'tags' - теги новости
- - 'source' -  ссылка на первоисточник (иногда бывает удален)
+#### Text metaattributes:
+ - 'textid' - unique text id
+ - 'textname' - title
+ - 'textdiff' - text readability
+ - 'author' - authors name
+ - 'textrubric' - rubric
+ - 'date' - date text was written
+ - 'time' - time text was written
+ - 'tags' - tags
+ - 'source' - URL (sometimes can be not available any more)
 
-#### Распределение текстов по сложности:
+#### Readability distribution of texts (from 0 to 10):
 
 ![alt text]({{ site.baseurl }}/assets/images/nplus1_diff.png "corpus segments")
 
-Больше статистики см. [здесь](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/nplus1.md)
+For more statistics [see](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/nplus1.md)
 
-### Комсомольская правда
+### Komsomolskaya pravda
 
-#### Метаатрибуты текстов:
- - 'textid' - уникальный айди текста
- - 'textname' - заголовок
- - 'textregion' - регион новости по поддомену
- - 'textrubric' - рубрика новости
- - 'date' - дата написания текста
- - 'time' - время написания текста
- - 'tags' - теги новости
- - 'source' -  ссылка на первоисточник (иногда бывает удален)
+#### Text metaattributes:
+ - 'textid' - unique text id
+ - 'textname' - title
+ - 'textregion' - region of the news 
+ - 'textrubric' - rubrics
+ - 'date' - date text was written
+ - 'time' - time text was written
+ - 'tags' - tags
+ - 'source' - URL (sometimes can be not available any more)
 
-#### Распределение новостей по регионам:
+#### Region distribution of news:
 
 ![alt text]({{ site.baseurl }}/assets/images/kp_regions.png "corpus segments")
 
-Больше статистики см. [здесь](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/komsomol.md)
+For more statistics [see](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/komsomol.md)
 
-### Журнальный зал
+### Russian Magazines Hall
 
-#### Метаатрибуты текстов:
- - 'textid' - уникальный айди текста
- - 'textname' - заголовок
- - 'magazine' - название журнала
- - 'author' - имя автора
- - 'date' - дата написания текста
- - 'time' - время написания текста
- - 'tags' - теги новости
- - 'source' -  ссылка на первоисточник (иногда бывает удален)
+#### Text metaattributes:
+ - 'textid' - unique text id
+ - 'textname' - title
+ - 'magazine' - source magazine
+ - 'author' - author's name
+ - 'date' - date text was written
+ - 'time' - time text was written
+ - 'tags' - tags
+ - 'source' - URL (sometimes can be not available any more)
 
-Больше статистики см. [здесь](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/magazines.md)
+For more statistics [see](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/magazines.md)
 
-### Фонтанка ру
+### Fontanka ru
 
-#### Метаатрибуты текстов:
- - 'textid' - уникальный айди текста
- - 'textname' - заголовок
- - 'textregion' - регион новости
- - 'textrubric' - рубрика новости
- - 'date' - дата написания текста
- - 'time' - время написания текста
- - 'tags' - теги новости
- - 'source' -  ссылка на первоисточник (иногда бывает удален)
+#### Text metaattributes:
+ - 'textid' - unique text id
+ - 'textname' - title
+ - 'textregion' - region of the news 
+ - 'textrubric' - rubrics
+ - 'date' - date text was written
+ - 'time' - time text was written
+ - 'tags' - tags
+ - 'source' - URL (sometimes can be not available any more)
 
-#### Распределение новостей по годам:
+#### Year distribution of news:
 
 ![alt text]({{ site.baseurl }}/assets/images/fontanka_years.png "corpus segments")
 
-Больше статистики см. [здесь](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/fontanka.md)
+For more statistics [see](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/fontanka.md)
 
-### Арзамас
+### Arzamas
 
-#### Метаатрибуты текстов:
- - 'textid' - уникальный айди текста
- - 'textname' - заголовок
- - 'authors' - имя автора
- - 'authorprofession' - профессия автора
- - 'about_author' - короткое описание со страницы автора
- - 'textrubric' - рубрика новости
- - 'date' - дата написания текста
- - 'time' - время написания текста
- - 'tags' - теги новости
- - 'source' -  ссылка на первоисточник (иногда бывает удален)
+#### Text metaattributes:
+ - 'textid' - unique text id
+ - 'textname' - title
+ - 'authors' - author's name
+ - 'authorprofession' - author's profession
+ - 'about_author' - about the author
+ - 'textrubric' - rubrics
+ - 'date' - date text was written
+ - 'time' - time text was written
+ - 'tags' - tags
+ - 'source' - URL (sometimes can be not available any more)
 
-#### Распределение текстов по рубрикам:
+#### Rubric distribution of texts:
 
 ![alt text]({{ site.baseurl }}/assets/images/arzamas_rubrics.png "corpus segments")
 
-Больше статистики см. [здесь](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/arzamas.md)
+For more statistics [see](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/arzamas.md)
 
 ### TV Subtitles
 
-#### Метаатрибуты текстов:
- - 'textid' - уникальный айди текста
- - 'title' - заголовок фильма
- - 'language' - язык
- - 'filepath' - путь к файлу
+#### Text metaattributes:
+ - 'textid' - unique text id
+ - 'title' - film title
+ - 'language' - language
+ - 'filepath' - path to file in this language
 
-#### Распределение текстов по языкам:
+#### Language distribution of texts:
 
 ![alt text]({{ site.baseurl }}/assets/images/tvsubtitles_langs.png "corpus segments")
 
-Больше статистики см. [здесь](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/tvsubtitles.md)
+For more statistics [see](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/tvsubtitles.md)
