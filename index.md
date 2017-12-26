@@ -1,6 +1,4 @@
----
-layout: default
----
+
 
 ## We have gathered the resources with respect to popular NLP-problems:
 
@@ -36,8 +34,11 @@ By now, 350 millions of words are 50% literary texts (33 literary magazines), 25
 
 ## This project is a project in the [HSE Compling](https://www.hse.ru/en/ma/ling/) framework
 
+## References:
+Shavrina T., Shapovalova O. (2017) TO THE METHODOLOGY OF CORPUS CONSTRUCTION FOR MACHINE LEARNING: «TAIGA» SYNTAX TREE CORPUS AND PARSER. in proc. of "CORPORA2017", international conference , Saint-Petersbourg, 2017.
+
 ## Links to documentation, tagging, idea, etc
- - [Corpus stats]({{ site.baseurl }}/segments)
+ - [Corpus stats and downloads]({{ site.baseurl }}/segments)
  - [Data format]({{ site.baseurl }}/format)
  - [Corpus pipeline and technologies]({{ site.baseurl }}/pipeline)
  - [Our mission]({{ site.baseurl }}/mission)
