@@ -5,8 +5,6 @@ Here you can explore information about our corpus sources and download them
 
 # Segment information
 
-## Segment Genres
-
 | Genres                | Texts | Tokens | Words | Avg. words per text |
 |-----------------------|----------------------|----------------------|-----------------|--------------------------:|
 | News                  | 471061               | 92783634             | 81563551        | 121.25                    |
