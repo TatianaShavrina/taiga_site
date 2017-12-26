@@ -39,8 +39,7 @@ Shavrina T., Shapovalova O. (2017) TO THE METHODOLOGY OF CORPUS CONSTRUCTION FOR
 
 ## Links to documentation, tagging, idea, etc
  - [Corpus stats and downloads]({{ site.baseurl }}/segments)
- - [Data format]({{ site.baseurl }}/format)
- - [Corpus pipeline and technologies]({{ site.baseurl }}/pipeline)
+ - [Data format, pipeline and technologies]({{ site.baseurl }}/pipeline)
  - [Our mission]({{ site.baseurl }}/mission)
 
 
