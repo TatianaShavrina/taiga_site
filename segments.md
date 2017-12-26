@@ -34,7 +34,7 @@ Here you can explore information about our corpus sources and download them
 
 ![alt text]({{ site.baseurl }}/assets/images/stihi_ru_rubrics.png "corpus segments")
 
-For more statistics [see](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/stihi_ru.md)
+For more statistics [see github docs](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/stihi_ru.md)
 
 ### Proza ru
 
@@ -53,7 +53,7 @@ For more statistics [see](https://github.com/TatianaShavrina/taiga_site/blob/mas
 
 ![alt text]({{ site.baseurl }}/assets/images/proza_ru_textrubric.png "corpus segments")
 
-For more statistics [see](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/proza_ru.md)
+For more statistics [see github docs](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/proza_ru.md)
 
 ### Lenta ru
 
@@ -70,7 +70,7 @@ For more statistics [see](https://github.com/TatianaShavrina/taiga_site/blob/mas
 
 ![alt text]({{ site.baseurl }}/assets/images/lenta_rubrics.png "corpus segments")
 
-For more statistics [see](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/lenta_ru.md)
+For more statistics [see github docs](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/lenta_ru.md)
 
 ### Interfax
 
@@ -87,7 +87,7 @@ For more statistics [see](https://github.com/TatianaShavrina/taiga_site/blob/mas
 
 ![alt text]({{ site.baseurl }}/assets/images/interfax_tags.png "corpus segments")
 
-For more statistics [see](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/interfax.md)
+For more statistics [see github docs](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/interfax.md)
 
 ### NPlus1
 
@@ -106,7 +106,7 @@ For more statistics [see](https://github.com/TatianaShavrina/taiga_site/blob/mas
 
 ![alt text]({{ site.baseurl }}/assets/images/nplus1_diff.png "corpus segments")
 
-For more statistics [see](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/nplus1.md)
+For more statistics [see github docs](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/nplus1.md)
 
 ### Komsomolskaya pravda
 
@@ -124,7 +124,7 @@ For more statistics [see](https://github.com/TatianaShavrina/taiga_site/blob/mas
 
 ![alt text]({{ site.baseurl }}/assets/images/kp_regions.png "corpus segments")
 
-For more statistics [see](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/komsomol.md)
+For more statistics [see github docs](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/komsomol.md)
 
 ### Russian Magazines Hall
 
@@ -138,7 +138,7 @@ For more statistics [see](https://github.com/TatianaShavrina/taiga_site/blob/mas
  - 'tags' - tags
  - 'source' - URL (sometimes can be not available any more)
 
-For more statistics [see](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/magazines.md)
+For more statistics [see github docs](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/magazines.md)
 
 ### Fontanka ru
 
@@ -156,7 +156,7 @@ For more statistics [see](https://github.com/TatianaShavrina/taiga_site/blob/mas
 
 ![alt text]({{ site.baseurl }}/assets/images/fontanka_years.png "corpus segments")
 
-For more statistics [see](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/fontanka.md)
+For more statistics [see github docs](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/fontanka.md)
 
 ### Arzamas
 
@@ -176,7 +176,7 @@ For more statistics [see](https://github.com/TatianaShavrina/taiga_site/blob/mas
 
 ![alt text]({{ site.baseurl }}/assets/images/arzamas_rubrics.png "corpus segments")
 
-For more statistics [see](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/arzamas.md)
+For more statistics [see github docs](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/arzamas.md)
 
 ### TV Subtitles
 
@@ -190,4 +190,4 @@ For more statistics [see](https://github.com/TatianaShavrina/taiga_site/blob/mas
 
 ![alt text]({{ site.baseurl }}/assets/images/tvsubtitles_langs.png "corpus segments")
 
-For more statistics [see](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/tvsubtitles.md)
+For more statistics [see github docs](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/tvsubtitles.md)
