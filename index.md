@@ -15,12 +15,12 @@
 By now, 350 millions of words are 50% literary texts (33 literary magazines), 25% of news (Interfax, Fontanka, Lenta ru, Komsomolskaya Pravda, ) and 25% of other (popular science - NPlus1, culture - Arzamas, social networks - VKontakte, amateur poems - stihi.ru and prose - proza.ru), with documentation [available](https://tatianashavrina.github.io/taiga_site/segments).
 
 In our methodological preparation for creating a new resource, we have postulated 5 main principles: 
-1) open source 
-2) big data 
-3) clear data 
-4) coverage of linguistic variation 
+ 1. open source 
+ + big data 
+ + clear data 
+ + coverage of linguistic variation 
 Corpus data should represent all possible variability in unbiased proportions for each separate resource. 
-5) solvability in a given metric 
+ + solvability in a given metric 
 (аdequacy of data composition and its’ features to the applications)
 
 With these principles, we believe that a corpus product that meets modern requirements of corpus linguistics can be created - it will not be a black box, it will be reflecting modern language and its features, not biased and capable of encouraging more cooperation between developers and linguists. 
