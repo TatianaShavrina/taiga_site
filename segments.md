@@ -3,191 +3,211 @@
 
 Here you can explore information about our corpus sources and download them
 
-# Segment distribution
+# Segment information
 
-| Resource              | texts                | tokens               | words           | words, median per text    |
+## Segment Genres
+
+| Genres                | Texts | Tokens | Words | Avg. words per text |
 |-----------------------|----------------------|----------------------|-----------------|--------------------------:|
-| news                  | 471061               | 92783634             | 81563551        | 121.25                    |
-| literature            | 53398                | 239722547            | 189065703       | 2401                      |
-| other                 | 33772                | 114354769            | 207782890       | 1177                      |
+| News                  | 471061               | 92783634             | 81563551        | 121.25                    |
+| Literary Texts        | 53398                | 239722547            | 189065703       | 2401                      |
+| Other                 | 33772                | 114354769            | 207782890       | 1177                      |
 
 #### Token distribution per segment
 
 ![alt text]({{ site.baseurl }}/assets/images/pie-chart-taiga.png "corpus segments")
 
-# Segment information
+## Stihi.ru
 
-### Stihi ru
+download as <a href="http://bit.ly/2DO34bs" class="btn-small">.txt</a> <a href="http://bit.ly/2BxDDcF" class="btn-small">.db</a>
 
-#### Text metaattributes:
- - 'textrubric' - poem genre
- - 'textid' - unique text id
- - 'textname' - title
- - 'author' - authors nickname
- - 'authortexts' - amount of authors texts
- - 'authorreaders' - amount of authors readers
- - 'date' - date text was written
- - 'time' - time text was written
- - 'source' -  URL (sometimes can be not available any more)
+#### Meta-attributes:
+ - 'textrubric' – genre of the poem
+ - 'textid' – unique ID
+ - 'textname' – poem title
+ - 'author' – author(s)
+ - 'authortexts' – number of poems written by the author
+ - 'authorreaders' – number of visitors who read the poem
+ - 'date' – date of publication
+ - 'time' – time of publication
+ - 'source' –  reference to the original source (sometimes unavailable)
 
-#### Textrubric distribution of poems:
+#### Distribution of Poems by Genre
 
 ![alt text]({{ site.baseurl }}/assets/images/stihi_ru_rubrics.png "corpus segments")
 
-For more statistics [see github docs](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/stihi_ru.md)
+Click [here](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/stihi_ru.md) for more info.
 
-### Proza ru
+## Proza.ru
 
-#### Text metaattributes:
- - 'textrubric' - text genre
- - 'textid' - unique text id
- - 'textname' - title
- - 'author' - authors nickname
- - 'authortexts' - amount of authors texts
- - 'authorreaders' - amount of authors readers
- - 'date' - date text was written
- - 'time' - time text was written
- - 'source' -  URL (sometimes can be not available any more)
+download as <a href="http://bit.ly/2la8iGe" class="btn-small">.txt</a> <a href="http://bit.ly/2C7QplG" class="btn-small">.db</a>
 
-#### Genre distribution of texts:
+#### Meta-attributes:
+ - 'textrubric' – text genre
+ - 'textid' – unique ID
+ - 'textname' – title
+ - 'author' – author(s)
+ - 'authortexts' – number of texts written by the author
+ - 'authorreaders' – number of visitors who read the text
+ - 'date' – date of publication
+ - 'time' – time of publication
+ - 'source' –  reference to the original source (sometimes unavailable)
+
+#### Distribution of Texts  by Genre
 
 ![alt text]({{ site.baseurl }}/assets/images/proza_ru_textrubric.png "corpus segments")
 
-For more statistics [see github docs](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/proza_ru.md)
+Click [here](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/proza_ru.md) for more info.
 
-### Lenta ru
+## Lenta.ru
 
-#### Text metaattributes:
- - 'textid' - unique text id
- - 'textname' - title
- - 'textrubric' - rubrics
- - 'date' - date text was written
- - 'time' - time text was written
- - 'tags' - tags
- - 'source' - URL (sometimes can be not available any more)
+download as <a href="http://bit.ly/2DM8WlB" class="btn-small">.txt</a> <a href="http://bit.ly/2C35sxl" class="btn-small">.db</a>
 
-#### Rubric distribution of news:
+#### Meta-attributes:
+ - 'textid' – unique ID
+ - 'textname' – article title
+ - 'textrubric' – article category
+ - 'date' – date of publication
+ - 'time' – time of publication
+ - 'tags' – article tags
+ - 'source' –  reference to the original source (sometimes unavailable)
+
+### Distribution of Articles by Category
 
 ![alt text]({{ site.baseurl }}/assets/images/lenta_rubrics.png "corpus segments")
 
-For more statistics [see github docs](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/lenta_ru.md)
+Click [here](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/lenta_ru.md) for more info.
 
-### Interfax
+## Interfax
 
-#### Text metaattributes:
- - 'textid' - unique text id
- - 'textname' - title
- - 'textrubric' - rubrics
- - 'date' - date text was written
- - 'time' - time text was written
- - 'tags' - tags
- - 'source' - URL (sometimes can be not available any more)
+download as <a href="http://bit.ly/2D8VQO8" class="btn-small">.txt</a> <a href="http://bit.ly/2C7PcLa" class="btn-small">.db</a>
 
-#### Rubric distribution of news:
+#### Meta-attributes:
+ - 'textid' – unique ID
+ - 'textname' – title
+ - 'textrubric' – article category
+ - 'date' – date of publication
+ - 'time' – time of publication
+ - 'tags' – article tags
+ - 'source' –  reference to the original source (sometimes unavailable)
+
+#### Distribution of Articles by Tag
 
 ![alt text]({{ site.baseurl }}/assets/images/interfax_tags.png "corpus segments")
 
-For more statistics [see github docs](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/interfax.md)
+Click [here](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/interfax.md) for more info.
 
-### NPlus1
+## NPlus1
 
-#### Text metaattributes:
- - 'textid' - unique text id
- - 'textname' - title
- - 'textdiff' - text readability
- - 'author' - authors name
- - 'textrubric' - rubric
- - 'date' - date text was written
- - 'time' - time text was written
- - 'tags' - tags
- - 'source' - URL (sometimes can be not available any more)
+download as <a href="http://bit.ly/2C4YpSp" class="btn-small">.txt</a> <a href="http://bit.ly/2DMagoz" class="btn-small">.db</a>
 
-#### Readability distribution of texts (from 0 to 10):
+#### Meta-attributes:
+ - 'textid' – unique ID
+ - 'textname' – title
+ - 'textdiff' – text difficulty
+ - 'author' – author(s)
+ - 'textrubric' – article category
+ - 'date' – date of publication
+ - 'time' – time of publication
+ - 'tags' – article tags
+ - 'source' –  reference to the original source (sometimes unavailable)
+
+#### Distribution of Texts by Difficulty
 
 ![alt text]({{ site.baseurl }}/assets/images/nplus1_diff.png "corpus segments")
 
-For more statistics [see github docs](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/nplus1.md)
+Click [here](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/nplus1.md) for more info.
 
-### Komsomolskaya pravda
+## Komsomolskaya Pravda
 
-#### Text metaattributes:
- - 'textid' - unique text id
- - 'textname' - title
- - 'textregion' - region of the news 
- - 'textrubric' - rubrics
- - 'date' - date text was written
- - 'time' - time text was written
- - 'tags' - tags
- - 'source' - URL (sometimes can be not available any more)
+download as <a href="http://bit.ly/2D8W8oc" class="btn-small">.txt</a> <a href="http://bit.ly/2DMYLxs" class="btn-small">.db</a>
 
-#### Region distribution of news:
+#### Meta-attributes:
+ - 'textid' – unique ID
+ - 'textname' – title
+ - 'textregion' – news by region
+ - 'textrubric' – article category
+ - 'date' – date of publication
+ - 'time' – time of publication
+ - 'tags' – article tags
+ - 'source' –  reference to the original source (sometimes unavailable)
+
+#### Distribution of Articles by Region
 
 ![alt text]({{ site.baseurl }}/assets/images/kp_regions.png "corpus segments")
 
-For more statistics [see github docs](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/komsomol.md)
+Click [here](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/komsomol.md) for more info.
 
-### Russian Magazines Hall
+## Russian Magazines Hall
 
-#### Text metaattributes:
- - 'textid' - unique text id
- - 'textname' - title
- - 'magazine' - source magazine
- - 'author' - author's name
- - 'date' - date text was written
- - 'time' - time text was written
- - 'tags' - tags
- - 'source' - URL (sometimes can be not available any more)
+download as <a href="http://bit.ly/2BOxMUP" class="btn-small">.txt</a> <a href="http://bit.ly/2DJIrgK" class="btn-small">.db</a>
 
-For more statistics [see github docs](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/magazines.md)
+#### Meta-attributes:
+ - 'textid' – unique ID
+ - 'textname' – title
+ - 'magazine' – magazine title
+ - 'author' – author(s)
+ - 'date' – date of publication
+ - 'time' – time of publication
+ - 'tags' – tags
+ - 'source' –  reference to the original source (sometimes unavailable)
 
-### Fontanka ru
+Click [here](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/magazines.md) for more info.
 
-#### Text metaattributes:
- - 'textid' - unique text id
- - 'textname' - title
- - 'textregion' - region of the news 
- - 'textrubric' - rubrics
- - 'date' - date text was written
- - 'time' - time text was written
- - 'tags' - tags
- - 'source' - URL (sometimes can be not available any more)
+## Fontanka.ru
 
-#### Year distribution of news:
+download as <a href="http://bit.ly/2Db4WKD" class="btn-small">.txt</a> <a href="http://bit.ly/2C86Z5e" class="btn-small">.db</a>
+
+#### Meta-attributes:
+ - 'textid' – unique ID
+ - 'textname' – title
+ - 'textregion' – news by region
+ - 'textrubric' – article category
+ - 'date' – date of publication
+ - 'time' – time of publication
+ - 'tags' – article tags
+ - 'source' –  reference to the original source (sometimes unavailable)
+
+#### Distribution of Articles by Year
 
 ![alt text]({{ site.baseurl }}/assets/images/fontanka_years.png "corpus segments")
 
-For more statistics [see github docs](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/fontanka.md)
+Click [here](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/fontanka.md) for more info.
 
-### Arzamas
+## Arzamas
 
-#### Text metaattributes:
- - 'textid' - unique text id
- - 'textname' - title
- - 'authors' - author's name
- - 'authorprofession' - author's profession
- - 'about_author' - about the author
- - 'textrubric' - rubrics
- - 'date' - date text was written
- - 'time' - time text was written
- - 'tags' - tags
- - 'source' - URL (sometimes can be not available any more)
+download as <a href="http://bit.ly/2BONteN" class="btn-small">.txt</a> <a href="http://bit.ly/2Bz3iBW" class="btn-small">.db</a>
 
-#### Rubric distribution of texts:
+#### Meta-attributes:
+ - 'textid' – unique ID
+ - 'textname' – title
+ - 'authors' – author(s)
+ - 'authorprofession' – author's profession
+ - 'about_author' – short author bio
+ - 'textrubric' – article category
+ - 'date' – date of publication
+ - 'time' – time of publication
+ - 'tags' – article tags
+ - 'source' –  reference to the original source (sometimes unavailable)
+
+#### Distribution of Articles by Category
 
 ![alt text]({{ site.baseurl }}/assets/images/arzamas_rubrics.png "corpus segments")
 
-For more statistics [see github docs](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/arzamas.md)
+Click [here](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/arzamas.md) for more info.
 
-### TV Subtitles
+## TV Subtitles
 
-#### Text metaattributes:
- - 'textid' - unique text id
- - 'title' - film title
- - 'language' - language
- - 'filepath' - path to file in this language
+download as <a href="http://bit.ly/2BBwEzH" class="btn-small">.txt</a> <a href="http://bit.ly/2DciJAf" class="btn-small">.db</a>
 
-#### Language distribution of texts:
+#### Meta-attributes:
+ - 'textid' – unique ID
+ - 'title' – film title
+ - 'language' – language
+ - 'filepath' – file path
+
+#### Distribution of Texts by Language
 
 ![alt text]({{ site.baseurl }}/assets/images/tvsubtitles_langs.png "corpus segments")
 
-For more statistics [see github docs](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/tvsubtitles.md)
+Click [here](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/tvsubtitles.md) for more info.
