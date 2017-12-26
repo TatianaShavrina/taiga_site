@@ -15,6 +15,27 @@ Here you can explore information about our corpus sources and download them
 
 ![alt text]({{ site.baseurl }}/assets/images/pie-chart-taiga.png "corpus segments")
 
+
+<h3>Download all corpus (6 GB)</h3><a href="http://bit.ly/2BzJKxc" class="btn-small">text files</a> <a href="http://bit.ly/2l8fbHT" class="btn-small">database</a>
+
+## Our special collections for
+### Readability (NPlus1)
+<a href="http://bit.ly/2C2dpQQ" class="btn-small">text files</a> <a href="http://bit.ly/2lbpuuK" class="btn-small">database</a>
+
+### Parallel corpora (OpenSubtitles - Russian, English, German, Italian)
+<a href="http://bit.ly/2zsXCaI" class="btn-small">text files</a> <a href="http://bit.ly/2BNcjvd" class="btn-small">database</a>
+
+### Chat-bot training (OpenSubtitles)
+<a href="http://bit.ly/2zrEOJ8" class="btn-small">text files</a> <a href="http://bit.ly/2DL80Oq" class="btn-small">database</a>
+
+### Authorship attribution (Arzamas, stihi.ru, proza.ru)
+<a href="http://bit.ly/2DJJ5uG" class="btn-small">text files</a> <a href="http://bit.ly/2l8yOQf" class="btn-small">database</a>
+
+### Download all news sources (Lenta.ru, Interfax, Komsomolskaya pravda, Fontanka.ru)
+<a href="http://bit.ly/2pvhWZm" class="btn-small">text files</a> <a href="http://bit.ly/2Dc16AW" class="btn-small">database</a>
+
+# Download segments:
+
 ## Stihi.ru
 
 download as <a href="http://bit.ly/2DO34bs" class="btn-small">.txt</a> <a href="http://bit.ly/2BxDDcF" class="btn-small">.db</a>
