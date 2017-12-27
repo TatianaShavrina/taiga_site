@@ -12,12 +12,12 @@
 - rare words studying, frequency dictionaries - literary magazines, social media
 - morphological and syntactic parsers - any resource with respect to the genre
 
-By now, 350 millions of words are 50% literary texts (33 literary magazines), 25% of news (Interfax, Fontanka, Lenta ru, Komsomolskaya Pravda, ) and 25% of other (popular science - NPlus1, culture - Arzamas, social networks - VKontakte, amateur poems - stihi.ru and prose - proza.ru), with documentation [available](https://tatianashavrina.github.io/taiga_site/segments).
+By now, 430 millions of words are 50% literary texts (33 literary magazines), 25% of news (Interfax, Fontanka, Lenta ru, Komsomolskaya Pravda, ) and 25% of other (popular science - NPlus1, culture - Arzamas, social networks - VKontakte, amateur poems - stihi.ru and prose - proza.ru), with documentation [available](https://tatianashavrina.github.io/taiga_site/segments).
  
 Taiga corpus is an ambitious project to become the largest fully available webcorpus constructed from open text sources. 
 Taiga corpus is:
  - open source, CC BY-SA 3.0 
- - big - about 400 million words by now 
+ - big - more than 400 million words by now 
  - sorted by datasets applicable to different machine laearning tasks
  - made by linguists, experienced in text crawling, parsing and filtering
  - rich with metainformation
