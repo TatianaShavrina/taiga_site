@@ -8,5 +8,5 @@
  
 #### Распределение текстов по журналам:
 
-![](https://github.com/TatianaShavrina/taiga_site/blob/master/assets/magazines_journals.png)
+![](https://github.com/TatianaShavrina/taiga_site/blob/master/assets/images/magazines_journals.png)
 
