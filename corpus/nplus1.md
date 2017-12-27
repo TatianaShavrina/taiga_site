@@ -8,10 +8,10 @@
 
 #### Распределение текстов по сложности:
 
-![](https://github.com/TatianaShavrina/taiga_site/blob/master/assets/css/nplus1_diff.png "corpus segments")
+![](https://github.com/TatianaShavrina/taiga_site/blob/master/assets/images/nplus1_diff.png "corpus segments")
 
 
 
 #### Распределение новостей по рубрикам:
 
-![](https://github.com/TatianaShavrina/taiga_site/blob/master/assets/css/nplus1_rubrics.png "corpus segments")
+![](https://github.com/TatianaShavrina/taiga_site/blob/master/assets/images/nplus1_rubrics.png "corpus segments")
