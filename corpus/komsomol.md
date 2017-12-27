@@ -8,6 +8,6 @@
 
 #### Распределение новостей по регионам:
 
-![](https://github.com/TatianaShavrina/taiga_site/blob/master/assets/css/kp_regions.png "corpus segments")
+![](https://github.com/TatianaShavrina/taiga_site/blob/master/assets/images/kp_regions.png "corpus segments")
 
 
