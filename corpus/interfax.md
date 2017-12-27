@@ -8,9 +8,9 @@
 
 #### Распределение новостей по тегам:
 
-![](https://github.com/TatianaShavrina/taiga_site/blob/master/assets/css/interfax_tags.png "corpus segments")
+![](https://github.com/TatianaShavrina/taiga_site/blob/master/assets/images/interfax_tags.png "corpus segments")
 
 
 #### Распределение новостей по рубрикам:
 
-![](https://github.com/TatianaShavrina/taiga_site/blob/master/assets/css/interfax_rubrics.png "corpus segments")
+![](https://github.com/TatianaShavrina/taiga_site/blob/master/assets/images/interfax_rubrics.png "corpus segments")
