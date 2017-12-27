@@ -6,4 +6,4 @@
  
 #### Распределение новостей по годам:
 
-![](https://github.com/TatianaShavrina/taiga_site/blob/master/assets/fontanka_years.png )
+![](https://github.com/TatianaShavrina/taiga_site/blob/master/assets/images/fontanka_years.png )
