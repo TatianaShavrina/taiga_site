@@ -4,19 +4,24 @@
 <h3>All corpus (6 GB)</h3><a href="http://bit.ly/2BzJKxc" class="btn-small">text files</a> <a href="http://bit.ly/2l8fbHT" class="btn-small">database</a>
 
 ## Our special collections for
-### Readability (NPlus1)
+### Readability (NPlus1 has "difficulty" expert annotation)
 <a href="http://bit.ly/2C2dpQQ" class="btn-small">text files</a> <a href="http://bit.ly/2lbpuuK" class="btn-small">database</a>
 
 ### Parallel corpora (OpenSubtitles - Russian, English, German, Italian)
+Parallel subtitles to films
 <a href="http://bit.ly/2zsXCaI" class="btn-small">text files</a> <a href="http://bit.ly/2BNcjvd" class="btn-small">database</a>
 
 ### Chat-bot training (OpenSubtitles)
+Dialogs in film subtitles
 <a href="http://bit.ly/2zrEOJ8" class="btn-small">text files</a> <a href="http://bit.ly/2DL80Oq" class="btn-small">database</a>
 
 ### Authorship attribution (Arzamas, stihi.ru, proza.ru)
+Arzamas has authors' names, professions, about
+stihi.ru, proza.ru have authors nickname, quantity of readers 
 <a href="http://bit.ly/2DJJ5uG" class="btn-small">text files</a> <a href="http://bit.ly/2l8yOQf" class="btn-small">database</a>
 
 ### Download all news sources (Lenta.ru, Interfax, Komsomolskaya pravda, Fontanka.ru)
+Our news collection (news by date, section, tags, rubrics, etc)
 <a href="http://bit.ly/2pvhWZm" class="btn-small">text files</a> <a href="http://bit.ly/2Dc16AW" class="btn-small">database</a>
 
 ## Download segments:
