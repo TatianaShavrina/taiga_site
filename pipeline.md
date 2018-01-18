@@ -36,6 +36,7 @@ Each of the segments you can download in 2 formats:
 
  On our github repository for pipeline and database construction you can find more detailed information
  https://github.com/TatianaShavrina/taiga/
+ 
  ---
  
 # Corpus construction pipeline
@@ -96,7 +97,7 @@ Here are the tags with typical examples:
 
     X – of, and, the, in, for, de, mignews.com, capture, di, money
     
-    ---
+---
     
 ### Every POS-tag has its own features (see below):
 
