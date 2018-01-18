@@ -5,11 +5,14 @@ Here you can explore information about our corpus sources and download them
 
 # Segment information
 
-| Genres                | Texts | Tokens | Words | Avg. words per text |
-|-----------------------|----------------------|----------------------|-----------------|--------------------------:|
-| News                  | 471061               | 92783634             | 81563551        | 121.25                    |
-| Literary Texts        | 53398                | 239722547            | 189065703       | 2401                      |
-| Other                 | 33772                | 114354769            | 207782890       | 1177                      |
+| Genres                | Tokens, millions     | %           |
+|-----------------------|----------------------|------------:|
+| News                  | 92                   | 17.5        |
+| Literary Texts        | 247                  | 47          |
+| Magazines             | 2.5                  | 0.5         |
+| Social media          | 80                   | 15.4        |
+| Subtitles             | 101                  | 19.4        |
+| Poems                 | 1                    | 0.2         |
 
 #### Token distribution per segment
 
