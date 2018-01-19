@@ -230,7 +230,8 @@ advcl: adverbial clause modifier
 ```
 advmod: adverbial modifier
 
-```20    так    так    ADV    _    Degree=Pos    21    advmod    21:advmod    _
+```
+20    так    так    ADV    _    Degree=Pos    21    advmod    21:advmod    _
 21    смертельно    смертельно    ADV    _    Degree=Pos    22    advmod    22:advmod    _
 22    устал    уставать    VERB    _    Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act    11    conj    11:conj    SpaceAfter=No
 
@@ -241,7 +242,8 @@ advmod: adverbial modifier
 ```
 amod: adjectival modifier
 
-```19    на    на    ADP    _    _    21    case    21:case    _
+```
+19    на    на    ADP    _    _    21    case    21:case    _
 20    постсоветском    постсоветский    ADJ    _    Case=Loc|Degree=Pos|Gender=Neut|Number=Sing    21    amod    21:amod    _
 21    пространстве    пространство    NOUN    _    Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing    17    nmod    17:nmod    SpaceAfter=No
 ```
@@ -251,7 +253,8 @@ the noun following immediately after the noun, specifying or modifying its meani
 ```
 aux: auxiliary (+ aux:pass)
 
-```25    не    не    PART    _    _    26    advmod    26:advmod    _
+```
+25    не    не    PART    _    _    26    advmod    26:advmod    _
 26    стал    стать    VERB    _    Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act    5    conj    5:conj    _
 27    бы    бы    PART    _    Mood=Cnd    26    aux    26:aux    SpaceAfter=No
 
