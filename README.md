@@ -2,7 +2,7 @@
  Welcome to the taiga site repository!
  
  Here, as well as on our website, you can explore our documentation, leave feedback, open issues and create pull requests
- If you are here for the data, you can download it here https://tatianashavrina.github.io/taiga_site/ 
+ 
  
  ## About the project
  
