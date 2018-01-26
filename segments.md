@@ -14,6 +14,8 @@ Here you can explore information about our corpus sources and download them
 | Subtitles             | 101                  | 19.4        |
 | Poems                 | 1                    | 0.2         |
 
+<iframe src="https://cdn.datamatic.io/runtime/echarts/3.7.2_212/embedded/index.html#id=100088320013322889982/13ZTdT-GFu-JkEbP6yzv4joYtQzHa_JIF" frameborder="0" width="884" height="559" allowtransparency="true"></iframe>
+
 #### Token distribution per segment
 
 ![alt text]({{ site.baseurl }}/assets/images/pie-chart-taiga.png "corpus segments")
