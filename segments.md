@@ -18,12 +18,7 @@ Here you can explore information about our corpus sources and download them
 
 #### Token distribution per segment
 
-![alt text]({{ site.baseurl }}/assets/images/pie-chart-taiga.png "corpus segments")
-
-
 ## Stihi.ru
-
-download as <a href="http://bit.ly/2DO34bs" class="btn-small">.txt</a> <a href="http://bit.ly/2BxDDcF" class="btn-small">.db</a>
 
 #### Meta-attributes:
  - 'textrubric' – genre of the poem
@@ -44,8 +39,6 @@ Click [here](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/st
 
 ## Proza.ru
 
-download as <a href="http://bit.ly/2la8iGe" class="btn-small">.txt</a> <a href="http://bit.ly/2C7QplG" class="btn-small">.db</a>
-
 #### Meta-attributes:
  - 'textrubric' – text genre
  - 'textid' – unique ID
@@ -65,8 +58,6 @@ Click [here](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/pr
 
 ## Lenta.ru
 
-download as <a href="http://bit.ly/2DM8WlB" class="btn-small">.txt</a> <a href="http://bit.ly/2C35sxl" class="btn-small">.db</a>
-
 #### Meta-attributes:
  - 'textid' – unique ID
  - 'textname' – article title
@@ -84,8 +75,6 @@ Click [here](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/le
 
 ## Interfax
 
-download as <a href="http://bit.ly/2D8VQO8" class="btn-small">.txt</a> <a href="http://bit.ly/2C7PcLa" class="btn-small">.db</a>
-
 #### Meta-attributes:
  - 'textid' – unique ID
  - 'textname' – title
@@ -102,8 +91,6 @@ download as <a href="http://bit.ly/2D8VQO8" class="btn-small">.txt</a> <a href="
 Click [here](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/interfax.md) for more info.
 
 ## NPlus1
-
-download as <a href="http://bit.ly/2C4YpSp" class="btn-small">.txt</a> <a href="http://bit.ly/2DMagoz" class="btn-small">.db</a>
 
 #### Meta-attributes:
  - 'textid' – unique ID
@@ -124,8 +111,6 @@ Click [here](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/np
 
 ## Komsomolskaya Pravda
 
-download as <a href="http://bit.ly/2D8W8oc" class="btn-small">.txt</a> <a href="http://bit.ly/2DMYLxs" class="btn-small">.db</a>
-
 #### Meta-attributes:
  - 'textid' – unique ID
  - 'textname' – title
@@ -144,8 +129,6 @@ Click [here](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/ko
 
 ## Russian Magazines Hall
 
-download as <a href="http://bit.ly/2BOxMUP" class="btn-small">.txt</a> <a href="http://bit.ly/2DJIrgK" class="btn-small">.db</a>
-
 #### Meta-attributes:
  - 'textid' – unique ID
  - 'textname' – title
@@ -159,8 +142,6 @@ download as <a href="http://bit.ly/2BOxMUP" class="btn-small">.txt</a> <a href="
 Click [here](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/magazines.md) for more info.
 
 ## Fontanka.ru
-
-download as <a href="http://bit.ly/2Db4WKD" class="btn-small">.txt</a> <a href="http://bit.ly/2C86Z5e" class="btn-small">.db</a>
 
 #### Meta-attributes:
  - 'textid' – unique ID
@@ -179,8 +160,6 @@ download as <a href="http://bit.ly/2Db4WKD" class="btn-small">.txt</a> <a href="
 Click [here](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/fontanka.md) for more info.
 
 ## Arzamas
-
-download as <a href="http://bit.ly/2BONteN" class="btn-small">.txt</a> <a href="http://bit.ly/2Bz3iBW" class="btn-small">.db</a>
 
 #### Meta-attributes:
  - 'textid' – unique ID
@@ -201,8 +180,6 @@ download as <a href="http://bit.ly/2BONteN" class="btn-small">.txt</a> <a href="
 Click [here](https://github.com/TatianaShavrina/taiga_site/blob/master/corpus/arzamas.md) for more info.
 
 ## TV Subtitles
-
-download as <a href="http://bit.ly/2BBwEzH" class="btn-small">.txt</a> <a href="http://bit.ly/2DciJAf" class="btn-small">.db</a>
 
 #### Meta-attributes:
  - 'textid' – unique ID
