@@ -1,13 +1,15 @@
 ## Download Taiga corpus:
 
 Our corpus is now in alpha-version.
+
 To obtain the test data, please contact rybolos@gmail.com
 
 Feedback wanted!
 
 
 ### Disclaimer
-Users are informed, that corpus data is for personal and research purposes, 
+Users are informed, that corpus data is for personal and research purposes.
+
 Taiga corpus collective is not responsible of any user violations of these rules.
 
 ### For authors:
