@@ -1,7 +1,9 @@
 ### Taiga is a corpus, where text sources and their meta-information are collected according to popular ML tasks.
  Each text in corpus is represented in plain text and with morphological and syntactic annotation (UDPipe, homonymy resolved automatically) + has metainformation - date, theme, authorship, text difficulcy...etc (depending on source)  
  
- # Segment information
+By now, about 500 millions of words are 50% literary texts (33 literary magazines), 25% of news (4 popular sites) and 25% of other (popular science, culture mags, social networks, amateur poems and prose), with documentation [available](https://tatianashavrina.github.io/taiga_site/segments).
+ 
+### Segment information
 
 <iframe src="https://cdn.datamatic.io/runtime/echarts/3.7.2_212/embedded/index.html#id=100088320013322889982/13ZTdT-GFu-JkEbP6yzv4joYtQzHa_JIF" frameborder="0" width="884" height="559" allowtransparency="true"></iframe>
 
@@ -17,7 +19,6 @@
 - rare words studying, frequency dictionaries - literary magazines, social media
 - morphological and syntactic parsers - any resource with respect to the genre
 
-By now, about 500 millions of words are 50% literary texts (33 literary magazines), 25% of news (4 popular sites) and 25% of other (popular science, culture mags, social networks, amateur poems and prose), with documentation [available](https://tatianashavrina.github.io/taiga_site/segments).
  
 Taiga corpus is an ambitious project to become the largest fully available webcorpus constructed from open text sources. 
 Taiga corpus is:
