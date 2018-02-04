@@ -1,4 +1,9 @@
+### Taiga is a corpus, where text sources and their meta-information are collected according to popular ML tasks.
+ Each text in corpus is represented in plain text and with morphological and syntactic annotation (UDPipe, homonymy resolved automatically) + has metainformation - date, theme, authorship, text difficulcy...etc (depending on source)  
+ 
+ # Segment information
 
+<iframe src="https://cdn.datamatic.io/runtime/echarts/3.7.2_212/embedded/index.html#id=100088320013322889982/13ZTdT-GFu-JkEbP6yzv4joYtQzHa_JIF" frameborder="0" width="884" height="559" allowtransparency="true"></iframe>
 
 ## We have gathered the resources with respect to popular NLP-problems:
 
@@ -12,12 +17,12 @@
 - rare words studying, frequency dictionaries - literary magazines, social media
 - morphological and syntactic parsers - any resource with respect to the genre
 
-By now, 430 millions of words are 50% literary texts (33 literary magazines), 25% of news (Interfax, Fontanka, Lenta ru, Komsomolskaya Pravda, ) and 25% of other (popular science - NPlus1, culture - Arzamas, social networks - VKontakte, amateur poems - stihi.ru and prose - proza.ru), with documentation [available](https://tatianashavrina.github.io/taiga_site/segments).
+By now, about 500 millions of words are 50% literary texts (33 literary magazines), 25% of news (4 popular sites) and 25% of other (popular science, culture mags, social networks, amateur poems and prose), with documentation [available](https://tatianashavrina.github.io/taiga_site/segments).
  
 Taiga corpus is an ambitious project to become the largest fully available webcorpus constructed from open text sources. 
 Taiga corpus is:
  - open source, CC BY-SA 3.0 
- - big - more than 400 million words by now 
+ - big - about 500 million words by now 
  - sorted by datasets applicable to different machine laearning tasks
  - made by linguists, experienced in text crawling, parsing and filtering
  - rich with metainformation
@@ -25,23 +30,6 @@ Taiga corpus is:
 
 With these principles, we believe that a corpus product that meets modern requirements of corpus linguistics can be created - it will not be a black box, it will be reflecting modern language and its features, not biased and capable of encouraging more cooperation between developers and linguists. 
 
-
-## Some stats about Taiga corpus:
-
-| Resource                      | texts              | tokens             | words           | median words per text   |
-|-------------------------------|--------------------|--------------------|-----------------|------------------------:|
-| stihi ru (poems)              | 4249               | 1040449            | 813413          | 96.0                    |
-| proza ru (proze)              | 2505               | 8490399            | 6716361         | 1009.0                  |
-| Lenta ru (news)               | 36446              | 8752681            | 7290281         | 179.0                   |
-| Interfax (news)               | 46429              | 7301002            | 6128555         | 87.0                    |
-| NPlus1  (popular science)     | 7696               | 2090506            | 1788361         | 213.0                   |
-| Komsomol truth (news)         | 45503              | 5683046            | 4723543         | 102.0                   |
-| magazine Hall (literature)    | 39890              | 239722547          | 189065703       | 2401.0                  |
-| Fontanka ru (news)            | 342683             | 71046905           | 59844450        | 117.0                   |
-| Arzamas (culture mag)         | 311                | 451720             | 371709          | 958.0                   |
-| TV Subtitles in Russian       | 7899               | 38300057           | 28429392        | 3609.0                  |
-| TV Subtitles in other langs   | 11112              | 63981638           | 49974754        | 4501.5                  |
-| <b>Total </b>                 | <b>544723</b>      | <b>446860950</b>   | <b>355146522</b>| <b>1206.5</b>           |
 
 ## This project is a project in the [HSE Compling](https://www.hse.ru/en/ma/ling/) framework
 
