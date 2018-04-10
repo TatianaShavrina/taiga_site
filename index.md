@@ -1,11 +1,11 @@
 ### Taiga is a corpus, where text sources and their meta-information are collected according to popular ML tasks.
  Each text in corpus is represented in plain text and with morphological and syntactic annotation (UDPipe, homonymy resolved automatically) + has metainformation - date, theme, authorship, text difficulcy...etc (depending on source)  
  
-By now, about 500 millions of words are 50% literary texts (33 literary magazines), 25% of news (4 popular sites) and 25% of other (popular science, culture mags, social networks, amateur poems and prose), with documentation [available](https://tatianashavrina.github.io/taiga_site/segments).
+By now, about 5 billions of words are 77% literary texts (33 literary magazines), 19% of naive poetry, 2% of news (4 popular sites) and 2% of other (popular science, culture mags, social networks, amateur poems and prose), with documentation [available](https://tatianashavrina.github.io/taiga_site/segments).
  
 ### Segment information
 
-<iframe src="https://cdn.datamatic.io/runtime/echarts/3.7.2_212/embedded/index.html#id=100088320013322889982/13ZTdT-GFu-JkEbP6yzv4joYtQzHa_JIF" frameborder="0" width="884" height="559" allowtransparency="true"></iframe>
+<iframe src="https://cdn.datamatic.io/runtime/echarts/3.7.2_230/embedded/index.html#id=115038797393892898117/1XxvinvhVz-Gh0WJzjQ_0sD5_f7coQueI" frameborder="0" width="687" height="493" allowtransparency="true"></iframe>
 
 ## We have gathered the resources with respect to popular NLP-problems:
 
@@ -23,7 +23,7 @@ By now, about 500 millions of words are 50% literary texts (33 literary magazine
 Taiga corpus is an ambitious project to become the largest fully available webcorpus constructed from open text sources. 
 Taiga corpus is:
  - open source, CC BY-SA 3.0 
- - big - about 500 million words by now 
+ - big - about 5 billion words by now 
  - sorted by datasets applicable to different machine laearning tasks
  - made by linguists, experienced in text crawling, parsing and filtering
  - rich with metainformation
