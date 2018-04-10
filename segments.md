@@ -7,14 +7,15 @@ Here you can explore information about our corpus sources and download them
 
 | Genres                | Tokens, millions     | %           |
 |-----------------------|----------------------|------------:|
-| News                  | 92                   | 17.5        |
-| Literary Texts        | 247                  | 47          |
-| Magazines             | 2.5                  | 0.5         |
-| Social media          | 80                   | 15.4        |
-| Subtitles             | 101                  | 19.4        |
-| Poems                 | 1                    | 0.2         |
+| News                  | 92                   | 1.5         |
+| Literary Texts        | 4605                 | 76          |
+| Special datasets      | 2.5                  | 0.5         |
+| Social media          | 80                   | 1.5         |
+| Subtitles             | 101                  | 1.5         |
+| Poems                 | 1130                 | 19          |
 
-<iframe src="https://cdn.datamatic.io/runtime/echarts/3.7.2_212/embedded/index.html#id=100088320013322889982/13ZTdT-GFu-JkEbP6yzv4joYtQzHa_JIF" frameborder="0" width="884" height="559" allowtransparency="true"></iframe>
+<iframe src="https://cdn.datamatic.io/runtime/echarts/3.7.2_230/embedded/index.html#id=115038797393892898117/1XxvinvhVz-Gh0WJzjQ_0sD5_f7coQueI" frameborder="0" width="687" height="493" allowtransparency="true"></iframe>
+	 	 	 	 	 	
 
 #### Token distribution per segment
 
