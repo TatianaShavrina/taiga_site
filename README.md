@@ -8,8 +8,8 @@
  
 Taiga corpus is an ambitious project to become the largest fully available webcorpus constructed from open text sources. 
 Taiga corpus is:
- - open source, CC BY-SA 3.0 
- - big - about 400 million words by now 
+ - open source
+ - big - about 6  billion words by now 
  - sorted by datasets applicable to different machine laearning tasks
  - made by linguists, experienced in text crawling, parsing and filtering
  - rich with metainformation
@@ -28,4 +28,5 @@ Under inspiring supervision of Olga Lyashevskaya
 
 ## References:
 1. Shavrina T., Shapovalova O. (2017) TO THE METHODOLOGY OF CORPUS CONSTRUCTION FOR MACHINE LEARNING: «TAIGA» SYNTAX TREE CORPUS AND PARSER. in proc. of "CORPORA2017", international conference , Saint-Petersbourg, 2017.
+2. Shavrina T. (2018) Differential approach to webcorpus construction. In  Dialogue, Russian International Conference on Computational Linguistics, RSUH, Moscow.
  
