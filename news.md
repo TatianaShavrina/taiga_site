@@ -1,5 +1,5 @@
 ## 14/08/2018 - Corpus update - Fake news dataset
-We have added fake news dataset in our corpus collection: 150k tokens from  panorama.pub (Russian fake news site (analogous to Onion)) - tagged and added to "News" segment.
+We have added fake news dataset in our corpus collection: 150k tokens from  panorama.pub (Russian fake news site, analogous to Onion) - tagged and added to "News" segment.
 
 Other new sources can be considered a "reliable news" class in case of binary classification task.
 
