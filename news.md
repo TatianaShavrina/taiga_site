@@ -10,9 +10,11 @@ Standard params - (3,6) n-grams + vector dimensionality is 300.
 Usage:
 ```
 import fastText as ft
-ft_model_big = ft.load_model('model')And then just refer to
-https://github.com/facebookresearch/fastText/blob/master/python/fastText/FastText.py
+ft_model_big = ft.load_model('model')
 ```
+And then just refer to
+https://github.com/facebookresearch/fastText/blob/master/python/fastText/FastText.py
+
 
 ---
 
