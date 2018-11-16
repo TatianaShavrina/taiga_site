@@ -1,3 +1,21 @@
+### 09/11/2018 - Vector Model Release
+
+[Spark in me](http://spark-in.me) releases a Fasttext model, trained on random mix of Russian Wikipedia, Taiga and Common Crawl
+
+[Download link](https://goo.gl/g6HmLU)
+
+Params
+Standard params - (3,6) n-grams + vector dimensionality is 300.
+
+Usage:
+'''
+import fastText as ft
+ft_model_big = ft.load_model('model')And then just refer to
+https://github.com/facebookresearch/fastText/blob/master/python/fastText/FastText.py
+'''
+
+---
+
 ### 14/08/2018 - Corpus update - Fake news dataset
 We have added fake news dataset in our corpus collection: 150k tokens from  panorama.pub (Russian fake news site, analogous to Onion) - tagged and added to "News" segment.
 
