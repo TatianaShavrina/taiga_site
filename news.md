@@ -1,3 +1,11 @@
+
+### 10/11/2018 - Corpus Download now open!
+
+Taiga corpus is now open for [downloading](https://tatianashavrina.github.io/taiga_site/downloads)!
+
+---
+
+
 ### 09/11/2018 - Vector Model Release
 
 [Spark in me](http://spark-in.me) releases a Fasttext model, trained on random mix of Russian Wikipedia, Taiga and Common Crawl
