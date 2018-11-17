@@ -2,7 +2,7 @@
 
 Our corpus is now in beta-version. Feedback wanted!
 
-<h3>All corpus (92 GB)</h3><a href="http://bit.ly/2HDwUBO" class="btn-small">text files</a> 
+<a href="http://bit.ly/2HDwUBO" class="btn-small">All corpus (92 GB)</a> 
 
 ### Our special collections for
 
