@@ -1,3 +1,9 @@
+### 22/02/2019 - ULMFit on Taiga available
+
+Universal language model for Russian -  [see on github](https://github.com/mamamot/Russian-ULMFit/)!
+
+---
+
 
 ### 10/11/2018 - Corpus Download now open!
 
