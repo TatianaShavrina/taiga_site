@@ -1,8 +1,8 @@
 ### 20/06/2019 - Bigger Corpus Released
 
-Want more data in Russian? 33B words available at [Omnia Russica ](https://omnia-russica.github.io/)
+Want more data in Russian? 33 billion words available at [Omnia Russica ](https://omnia-russica.github.io/)
 
-Taiga corpus + Omnia Russica + Common Crawl altogether
+Taiga corpus + Aranea + Wikipedia + Common Crawl altogether
 
 ### 22/02/2019 - ULMFit on Taiga available
 
