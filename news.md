@@ -1,3 +1,9 @@
+### 20/06/2019 - Bigger Corpus Released
+
+Want more data in Russian? 33B words available at [Omnia Russica ](https://omnia-russica.github.io/)
+
+Taiga corpus + Omnia Russica + Common Crawl altogether
+
 ### 22/02/2019 - ULMFit on Taiga available
 
 Universal language model for Russian -  [see on github](https://github.com/mamamot/Russian-ULMFit/)!
