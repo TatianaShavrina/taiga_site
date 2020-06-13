@@ -3,7 +3,7 @@
  
 By now, about 5 billions of words are 77% literary texts (33 literary magazines), 19% of naive poetry, 2% of news (4 popular sites) and 2% of other (popular science, culture mags, social networks, amateur poems and prose), with documentation [available](https://tatianashavrina.github.io/taiga_site/segments).
 
-See also: [**Omnia Russica corpus**](https://omnia-russica.github.io/) - a bigger version of Taiga available! 33b words from Taiga, Common Crawl, Wikipedia and Aranea corpus.
+See also: [**Omnia Russica corpus**](https://omnia-russica.github.io/) - a bigger version of Taiga available! 33 billion words from Taiga, Common Crawl, Wikipedia and Aranea corpus.
  
 ### Segment information
 
